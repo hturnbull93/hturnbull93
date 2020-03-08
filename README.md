@@ -9,7 +9,7 @@ I'm want to create programs that are not only useful for users, but also engagin
 [Projects] | [Skills] | [Education] | [Experience] | [Hobbies & Interests] | [GitHub] | [Medium Blog] | [CodeWars]
 
 
-## <a name="projects"></a>Projects
+## Projects
 
 A summary of the best projects I've worked on. These and more projects available on my [GitHub].
 
@@ -19,7 +19,7 @@ Project | Details | Tech | Links
  **Student directory** | A simple program allowing student data to be entered, and saved to/loaded from csv files. | Ruby | [GitHub](https://github.com/hturnbull93/student-directory)
 
 
-## <a name="skills"></a>Skills
+## Skills
 
 <!-- Ideas:
 - Quick Study
@@ -35,13 +35,13 @@ Project | Details | Tech | Links
 
 ### Time Management
 
-During my time as a freelance web designer I have often worked on several projects simultaneously. I manage my time effectively, focusing on tasks of high importance and urgency first.
+During my time as a freelance web designer I have often worked on several projects simultaneously. I manage my time effectively, focussing on tasks of high importance and urgency first.
 
 ### Communication
 
 Often I have needed to keep multiple stakeholders informed about the progress of projects. I assses a stakeholder's requirements quickly to manage expectations and deliver information effectively.
 
-### Team focused
+### Team focussed
 
 I have often worked as a part of a team for various professional and personal projects. I make sure each member's contributions are heard and that all members take part in making decisions.
 
@@ -54,7 +54,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
-## <a name="education"></a>Education
+## Education
 
 ### Makers Academy (Feb 2020 to Jun 2020)
 
@@ -87,7 +87,7 @@ A 16 week intensive programming bootcamp
 - A levels - 2 A*s: Psychology, Biology - 2 A's: Chemistry, Physics
 
 
-## <a name="experience"></a>Experience
+## Experience
 
 **The Nursery Theatre Ltd** (Nov 2017 to Present)    
 *Digital Communication and Website Manager*  
@@ -113,12 +113,12 @@ Generally my work has focussed on on front-end systems. I have gained good exper
 
 **Freedom Tech Ltd** (Nov 2015 to Jul 2017)    
 *Marketing and Project Manager*
-- Developed automated tools for creating white label marketing assets for customers.
-- Developed web-scraping tools in VisualBasic to gether product data from supplier's online catalogues.
-- Assited in development of customer portal system, focussing on UI, UX and QA.
+- I set up automated tools for creating white label marketing assets for customers.
+- I developed web-scraping tools in VisualBasic to gather product data from supplier's online catalogues.
+- I assited with development of the customer portal system, focussing on UI, UX and QA.
 
 
-## <a name="hobbies-and-interests"></a>Hobbies & Interests
+## Hobbies and Interests
 
 - **Improvised theatre and comedy** - I perform improvised shows with my group, live on stage with no script, based on audience suggestion. Skills from improv have great applications in the workplace too, such as active listening, generating ideas, building trust within teams, and working out of joy instead of fear.
 
