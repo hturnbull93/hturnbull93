@@ -6,7 +6,7 @@ I have developed skills in Ruby, JavaScript, PHP, HTML and CSS.
 
 I'm want to create programs that are not only useful for users, but also engaging and interesting to keep them coming back for more.
 
-[Projects] | [Skills] | [Education] | [Experience] | [Hobbies & Interests] | [GitHub](https://github.com/hturnbull93) | [Medium Blog](https://medium.com/@hturnbull93)
+[Projects] | [Skills] | [Education] | [Experience] | [Hobbies & Interests] | [GitHub] | [Medium Blog]
 
 
 ## <a name="projects"></a>Projects
@@ -114,8 +114,11 @@ During my time as a freelance web designer I have worked with several companies,
 - **Cycling** - I enjoy cycling, especially e-bikes.
 
 <!-- Menu internal Links -->
-[Projects]: (#projects)
-[Skills]: (#skills)
-[Education]: (#education)
-[Experience]: (#experience)
-[Hobbies & Interests]: (#hobbies-and-interests)
+[Projects]: #projects
+[Skills]: #skills
+[Education]: #education
+[Experience]: #experience
+[Hobbies & Interests]: #hobbies-and-interests
+[Twitter]: https://twitter.com/hturnbull
+[GitHub]: https://github.com/hturnbull93
+[Medium Blog]: https://medium.com/@hturnbull93
