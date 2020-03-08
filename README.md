@@ -35,7 +35,7 @@ Ideas:
 
 
 
-<!-- #### 2-4 skills Skill
+<!-- ### 2-4 skills Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -46,7 +46,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## <a name="education"></a>Education
 
-#### Makers Academy (Feb 2020 to Jun 2020)
+### Makers Academy (Feb 2020 to Jun 2020)
 
 A 16 week intensive programming bootcamp
 
@@ -55,24 +55,24 @@ A 16 week intensive programming bootcamp
 - RSpec
 - More skills to come as I progress through the coueaw
 
-#### FreeCodeCamp (2018 - Present)
+### FreeCodeCamp (2018 - Present)
 
 - Responsive Web Design Certification - HTML5/CSS3
 - Working towards the Javascript Algorithms and Data Structures Certification - Javascript/ES6
 - [FreeCodeCamp profile](https://www.freecodecamp.org/hturnbull)
 
-#### Google Ads Certifications (2018)
+### Google Ads Certifications (2018)
 
 - Google Ads search and display networks certifications
 
-#### University of Nottingham (Sep 2011 to Jun 2015)
+### University of Nottingham (Sep 2011 to Jun 2015)
 
 - MSci Life Sciences, specialising in microbiology and human genetics
 - Graduated with a 2:1
 - Studies required a methodical approach both in lectures and practical labs
 - Statistics modules involved data processing with R
 
-#### Aldenham School (Sep 2006 - Aug 2011)
+### Aldenham School (Sep 2006 - Aug 2011)
 
 - A levels - 2 A*s: Psychology, Biology - 2 A's: Chemistry, Physics
 
@@ -89,7 +89,7 @@ A 16 week intensive programming bootcamp
 **Graphic and Web Design Freelancer** (Aug 2017 to Present)   
 *Freelancer*
 
-During my time as a freelance web designer I have worked with several companies, mainly in the arts and charity sectors. Generally my work has focussed on on front-end systems. I have gained good experience of HTML5, CSS3, and preprocessors such as SASS and SCSS.
+During my time as a freelance web designer I have worked with several companies, mainly in the arts and charity sectors. Generally my work has focussed on on front-end systems. I have gained good experience of HTML5, CSS3, and preprocessors such as SASS.
 
 - I have implemented UI's in line with customer's brand guidelines, while maintaining a good user experience.
 - Improvements I have made have contributed to the growth of in sales of clases and corporate workshops for both The Nursery Theatre and Hoopla Impro.
