@@ -1,10 +1,10 @@
-## Your Name
+## Harry Turnbull
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### This Skill
 
@@ -44,12 +44,16 @@ That in some arguable way make you a better software developer or well-rounded p
 
 **Company Name** (start_date to end_date)    
 *Your job title*  
-- Any experience relevent to software development
+- Any experience relevant to software development
 
 **Company Name** (start_date to end_date)   
 *Your job title*  
-- Any experience relevent to software development
+- Any experience relevant to software development
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Improv
+Running
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjEzNzU5NTE3XX0=
+-->
