@@ -6,7 +6,7 @@ I have developed skills in Ruby, JavaScript, PHP, HTML and CSS.
 
 I'm want to create create programs that are useful, but also engaging and interesting.
 
-[Projects] | [Skills] | [Education] | [Experience] | [Hobbies & Interests] | [Twitter] | [GitHub] | [Medium Blog]
+[Projects] | [Skills] | [Education] | [Experience] | [Hobbies & Interests] | [Twitter](https://twitter.com/hturnbull) | [GitHub](https://github.com/hturnbull93) | [Medium Blog](https://medium.com/@hturnbull93)
 
 
 ## <a name="projects"></a>Projects
@@ -35,7 +35,7 @@ Ideas:
 
 
 
-<!-- #### Another Skill
+<!-- #### 2-4 skills Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -113,12 +113,9 @@ During my time as a freelance web designer I have worked with several companies,
 
 - **Cycling** - I enjoy cycling, especially e-bikes.
 
-<!-- Menu Links -->
+<!-- Menu internal Links -->
 [Projects]: (#projects)
 [Skills]: (#skills)
 [Education]: (#education)
 [Experience]: (#experience)
 [Hobbies & Interests]: (#hobbies-and-interests)
-[Twitter]: (https://twitter.com/hturnbull)
-[GitHub]: (https://github.com/hturnbull93)
-[Medium Blog]: (https://medium.com/@hturnbull93)
