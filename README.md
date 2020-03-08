@@ -1,6 +1,6 @@
 ## Harry Turnbull
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I'm a freelance web developer, currently training at Makers Academy. I developed skills in Ruby, JavaScript, PHP, HTML and CSS. I'm interested in creating things that.
 
 ## Skills
 
@@ -23,37 +23,40 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Feb 2020 to Jun 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Nottingham (Sep 2011 to Jun 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MSci Life Sciences, specialising in microbiology and human genetics
+- 2:1
+- Statistics modules involved data processing with R
 
-#### Any other qualifications
+#### FreeCodeCamp (2018 - Present)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Responsive Web Design Certification - HTML5/CSS3 certification
+- Javascript Algorithms and Data Structures Certification - Javascript/ES6
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevant to software development
+**The Nursery Theatre Ltd** (Nov 2017 to Present)    
+*Website Manager*  
+- Developed [thenurserytheatre.com](https://thenurserytheatre.com) in WordPress, using HTML/CSS/JS/PHP
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevant to software development
+**Freelance WordPress Developer** (Aug 2017 to Present)   
+*Freelancer*  
+- Solidified my understanding of HTML and CSS 
+- Developed my use of JS and PHP for customising certain behaviours
+- Examples:
+  - [Hoopla Impro](https://www.hooplaimpro.com)
+  - [Heather Urquhart personal website](https://heatherurquhart.com)
 
 ## Hobbies
 
 Improv
+
 Running
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzNzU5NTE3XX0=
--->
