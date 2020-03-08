@@ -33,9 +33,19 @@ Ideas:
 - Communication (written & verbal)
 - Thrives under pressure
 
+### Time Management
 
+During my time as a freelance web designer I have often worked on several projects simultaneously. I manage my time effectively, focusing on tasks of high importance and urgency first.
 
-<!-- ### 2-4 skills Skill
+### Communication
+
+Often I have needed to keep multiple stakeholders informed about the progress of projects. I assses a stakeholder's requirements quickly to manage expectations and deliver information effectively.
+
+### Team focused
+
+I have often worked as a part of a team for various professional and personal projects. I make sure each member's contributions are heard and that all members take part in making decisions.
+
+<!-- ### 2-4 skills
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -83,13 +93,13 @@ A 16 week intensive programming bootcamp
 *Digital Communication and Website Manager*  
 - Developed [thenurserytheatre.com](https://thenurserytheatre.com) in WordPress, using HTML/CSS/JS/PHP.
 - Maintain technical documents to assist users in updating content.
-- Renovated and maintain Google Ads campaigns, leading to an increase in click through rate.
+- Renovated Google Ads campaigns, leading to an increase in click through rate.
 
 
 **Graphic and Web Design Freelancer** (Aug 2017 to Present)   
 *Freelancer*
 
-During my time as a freelance web designer I have worked with several companies, mainly in the arts and charity sectors. Generally my work has focussed on on front-end systems. I have gained good experience of HTML5, CSS3, and preprocessors such as SASS.
+Generally my work has focussed on on front-end systems. I have gained good experience of HTML5, CSS3, and preprocessors such as SASS.
 
 - I have implemented UI's in line with customer's brand guidelines, while maintaining a good user experience.
 - Improvements I have made have contributed to the growth of in sales of clases and corporate workshops for both The Nursery Theatre and Hoopla Impro.
