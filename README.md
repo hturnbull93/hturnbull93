@@ -6,7 +6,7 @@ I have developed skills in Ruby, JavaScript, PHP, HTML and CSS.
 
 I'm want to create programs that are not only useful for users, but also engaging and interesting to keep them coming back for more.
 
-[Projects] | [Skills] | [Education] | [Experience] | [Hobbies & Interests] | [GitHub] | [Medium Blog]
+[Projects] | [Skills] | [Education] | [Experience] | [Hobbies & Interests] | [GitHub] | [Medium Blog] | [CodeWars]
 
 
 ## <a name="projects"></a>Projects
@@ -122,3 +122,4 @@ During my time as a freelance web designer I have worked with several companies,
 [Twitter]: https://twitter.com/hturnbull
 [GitHub]: https://github.com/hturnbull93
 [Medium Blog]: https://medium.com/@hturnbull93
+[CodeWars]: https://www.codewars.com/users/hturnbull93
