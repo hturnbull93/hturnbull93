@@ -96,6 +96,7 @@ During my time as a freelance web designer I have worked with several companies,
 - Some examples:
   - [Heather Urquhart personal website](https://heatherurquhart.com) - WordPress
   - [Hoopla Impro corporate section](https://www.hooplaimpro.com/improv-corporate-training.html) - WordPress
+  - [Gamez Improv](https://gamezimprov.com/) - WordPress  
   - Front end of [Improv Guide](https://improv.guide/) - SCSS/Bootstrap in Python/Django
 - As part of developing these sites I created graphics using GIMP2/Adobe Photoshop, and prototyped using Figma.
 
