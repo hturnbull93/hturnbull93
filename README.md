@@ -21,7 +21,7 @@ Project | Details | Tech | Links
 
 ## <a name="skills"></a>Skills
 
-Ideas:
+<!-- Ideas:
 - Quick Study
 - Adaptable
 - Creative
@@ -31,7 +31,7 @@ Ideas:
 - Team-player
 - Committed
 - Communication (written & verbal)
-- Thrives under pressure
+- Thrives under pressure -->
 
 ### Time Management
 
