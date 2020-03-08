@@ -4,7 +4,7 @@ I'm a freelance web developer, currently training at [Makers Academy](https://ma
 
 I have developed skills in Ruby, JavaScript, PHP, HTML and CSS. 
 
-I'm want to create create programs that are useful, but also engaging and interesting.
+I'm want to create programs that are not only useful for users, but also engaging and interesting to keep them coming back for more.
 
 [Projects] | [Skills] | [Education] | [Experience] | [Hobbies & Interests] | [Twitter](https://twitter.com/hturnbull) | [GitHub](https://github.com/hturnbull93) | [Medium Blog](https://medium.com/@hturnbull93)
 
