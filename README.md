@@ -6,7 +6,7 @@ I have developed skills in Ruby, JavaScript, PHP, HTML and CSS.
 
 I'm interested in creating programs that are useful, but also engaging and interesting.
 
-[Skills](#skills) - [Education](#experience) - [Experience](#experience) - [Hobbies & Interests](#hobbies-and-interests) - [Twitter](https://twitter.com/hturnbull) - [GitHub](https://github.com/hturnbull93) - [Medium Blog](https://medium.com/@hturnbull93)
+[Skills](#skills) | [Education](#experience) | [Experience](#experience) | [Hobbies & Interests](#hobbies-and-interests) | [Twitter](https://twitter.com/hturnbull) | [GitHub](https://github.com/hturnbull93) | [Medium Blog](https://medium.com/@hturnbull93)
 
 ## <a name="skills"></a>Skills
 
