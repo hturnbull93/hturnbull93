@@ -4,7 +4,7 @@ I'm a freelance web developer, currently training at [Makers Academy](https://ma
 
 I have developed skills in Ruby, JavaScript, PHP, HTML and CSS. 
 
-I'm interested in creating programs that are useful, but also engaging and interesting.
+I'm want to create create programs that are useful, but also engaging and interesting.
 
 [Skills](#skills) | [Education](#experience) | [Experience](#experience) | [Hobbies & Interests](#hobbies-and-interests) | [Twitter](https://twitter.com/hturnbull) | [GitHub](https://github.com/hturnbull93) | [Medium Blog](https://medium.com/@hturnbull93)
 
@@ -83,7 +83,7 @@ A 16 week intensive programming bootcamp
 - Renovated and maintain Google Ads campaigns, leading to an increase in click through rate.
 
 **Graphic and Web Design Freelancer** (Aug 2017 to Present)   
-*Freelancer*  
+*Freelancer*
 - Worked for clients primarily in the arts and charity sectors.
 - Solidified my understanding of HTML and CSS and developed my use of JS and PHP for customising certain behaviours.
 - Examples:
@@ -93,17 +93,14 @@ A 16 week intensive programming bootcamp
 - As part of developing these sites I created graphics using GIMP2/Adobe Photoshop, and prototyped using Figma.
 
 **Freedom Tech Ltd** (Nov 2015 to Jul 2017)    
-*Marketing and Project Manager*  
+*Marketing and Project Manager*
 - Developed automated tools for creating white label marketing assets for customers.
 - Developed web-scraping tools in VisualBasic to gether product data from supplier's online catalogues.
 - Assited in development of customer portal system, focussing on UI, UX and QA.
 
 ## <a name="hobbies-and-interests"></a>Hobbies & Interests
 
-#### Improvised theatre and comedy
+- **Improvised theatre and comedy** - I perform improvised shows with my group, live on stage with no script, based on audience suggestion. Skills from improv have great applications in the workplace too, such as active listening, generating ideas, building trust within teams, and working out of joy instead of fear.
 
-- 
 
-#### Cycling
-
-I enjoy cycling, especially e-bikes.
+- **Cycling** - I enjoy cycling, especially e-bikes.
