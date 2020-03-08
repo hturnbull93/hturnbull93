@@ -1,23 +1,37 @@
 # Harry Turnbull
 
-I'm a freelance web developer, currently training at [Makers Academy](https://makers.tech/), London's leading programming bootcamp. 
+I'm a freelance web developer, currently training at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) to become a junior developer. 
 
 I have developed skills in Ruby, JavaScript, PHP, HTML and CSS. 
 
 I'm want to create create programs that are useful, but also engaging and interesting.
 
-[Projects](#projects) [Skills](#skills) | [Education](#experience) | [Experience](#experience) | [Hobbies & Interests](#hobbies-and-interests) | [Twitter](https://twitter.com/hturnbull) | [GitHub](https://github.com/hturnbull93) | [Medium Blog](https://medium.com/@hturnbull93)
+[Projects] | [Skills] | [Education] | [Experience] | [Hobbies & Interests] | [Twitter] | [GitHub] | [Medium Blog]
 
 
 ## <a name="projects"></a>Projects
 
+A summary of the best projects I've worked on. These and more projects available on my [GitHub].
+
 Project | Details | Tech | Links
 --|---|---|---
  **Boggle** | A digital version of the popular board game Boggle, which generates the board and recieves player input through the command line. | Ruby | [GitHub](https://github.com/hturnbull93/boggle-in-ruby), [Development blog](https://medium.com/@hturnbull93/boggle-in-ruby-dice-and-grids-425bb17625ee) 
- **Student directory** | A simple program allowing Student data to be entered, and saved to/loaded from csv files. | Ruby | [GitHub](https://github.com/hturnbull93/student-directory)
+ **Student directory** | A simple program allowing student data to be entered, and saved to/loaded from csv files. | Ruby | [GitHub](https://github.com/hturnbull93/student-directory)
 
 
 ## <a name="skills"></a>Skills
+
+Ideas:
+- Quick Study
+- Adaptable
+- Creative
+- Inquisitive
+- Attention to detail/analytical
+- Enthusiastic
+- Team-player
+- Committed
+- Communication (written & verbal)
+- Thrives under pressure
 
 
 
@@ -36,7 +50,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 A 16 week intensive programming bootcamp
 
-- OOP, TDD
+- OOP, TD, Pair programming
 - Ruby
 - RSpec
 - More skills to come as I progress through the coueaw
@@ -98,3 +112,13 @@ During my time as a freelance web designer I have worked with several companies,
 - **Improvised theatre and comedy** - I perform improvised shows with my group, live on stage with no script, based on audience suggestion. Skills from improv have great applications in the workplace too, such as active listening, generating ideas, building trust within teams, and working out of joy instead of fear.
 
 - **Cycling** - I enjoy cycling, especially e-bikes.
+
+<!-- Menu Links -->
+[Projects]: (#projects)
+[Skills]: (#skills)
+[Education]: (#education)
+[Experience]: (#experience)
+[Hobbies & Interests]: (#hobbies-and-interests)
+[Twitter]: (https://twitter.com/hturnbull)
+[GitHub]: (https://github.com/hturnbull93)
+[Medium Blog]: (https://medium.com/@hturnbull93)
