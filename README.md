@@ -6,7 +6,10 @@ I have developed skills in Ruby, JavaScript, PHP, HTML and CSS.
 
 I'm interested in creating programs that are useful, but also engaging and interesting.
 
-## Skills
+[Skills](#skills) - [Education](#experience) - [Experience](#experience) - [Hobbies & Interests](#hobbies-and-interests) - [Twitter](https://twitter.com/hturnbull) - [GitHub](https://github.com/hturnbull93) - [Medium Blog](https://medium.com/@hturnbull93)
+
+## <a name="skills"></a>Skills
+---
 
 <!-- Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples. -->
 
@@ -40,9 +43,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
-## Education
+## <a name="education"></a>Education
+---
 
 #### Makers Academy (Feb 2020 to Jun 2020)
+
+A 16 week intensive programming bootcamp
 
 - OOP, TDD
 - Ruby
@@ -66,7 +72,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Studies required a methodical approach both in lectures and practical labs
 - Statistics modules involved data processing with R
 
-## Experience
+#### Aldenham School (Sep 2006 - Aug 2011)
+
+- A levels - 2 A*s: Psychology, Biology - 2 A's: Chemistry, Physics
+
+## <a name="experience"></a>Experience
 
 **The Nursery Theatre Ltd** (Nov 2017 to Present)    
 *Digital Communication and Website Manager*  
@@ -90,7 +100,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Developed web-scraping tools in VisualBasic to gether product data from supplier's online catalogues.
 - Assited in development of customer portal system, focussing on UI, UX and QA.
 
-## Hobbies & Interests
+## <a name="hobbies-and-interests"></a>Hobbies & Interests
+---
 
 #### Improvised theatre and comedy
 
