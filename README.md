@@ -9,7 +9,6 @@ I'm interested in creating programs that are useful, but also engaging and inter
 [Skills](#skills) - [Education](#experience) - [Experience](#experience) - [Hobbies & Interests](#hobbies-and-interests) - [Twitter](https://twitter.com/hturnbull) - [GitHub](https://github.com/hturnbull93) - [Medium Blog](https://medium.com/@hturnbull93)
 
 ## <a name="skills"></a>Skills
----
 
 <!-- Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples. -->
 
@@ -44,7 +43,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 ## <a name="education"></a>Education
----
 
 #### Makers Academy (Feb 2020 to Jun 2020)
 
@@ -101,7 +99,6 @@ A 16 week intensive programming bootcamp
 - Assited in development of customer portal system, focussing on UI, UX and QA.
 
 ## <a name="hobbies-and-interests"></a>Hobbies & Interests
----
 
 #### Improvised theatre and comedy
 
