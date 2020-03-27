@@ -1,13 +1,12 @@
 # Harry Turnbull
 
-I'm a freelance web developer, currently training at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) to become a junior developer. 
+I'm a freelance web developer, currently training at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) to become a junior developer.
 
-I have developed skills in Ruby, JavaScript, PHP, HTML and CSS. 
+I have developed skills in Ruby, JavaScript, PHP, HTML and CSS.
 
-I'm want to create programs that are not only useful for users, but also engaging and interesting to keep them coming back for more.
+I want to create programs that are not only useful for users, but also engaging and interesting to keep them coming back for more.
 
 [Projects] | [Skills] | [Education] | [Experience] | [Hobbies & Interests] | [GitHub] | [Medium Blog] | [CodeWars]
-
 
 ## Projects
 
@@ -15,9 +14,10 @@ A summary of the best projects I've worked on. These and more projects available
 
 Project | Details | Tech | Links
 --|---|---|---
- **Boggle** | A digital version of the popular board game Boggle, which generates the board and recieves player input through the command line. | Ruby | [GitHub](https://github.com/hturnbull93/boggle-in-ruby), [Development blog](https://medium.com/@hturnbull93/boggle-in-ruby-dice-and-grids-425bb17625ee) 
+ **Boggle** | A digital version of the popular board game Boggle, which generates the board and receives player input through the command line. | Ruby | [GitHub](https://github.com/hturnbull93/boggle-in-ruby), [Development blog](https://medium.com/@hturnbull93/boggle-in-ruby-dice-and-grids-425bb17625ee) 
+ **Oystercard** | A simple project emulating an Oystercard, made with TDD and OOP. | Ruby | [GitHub](https://github.com/hturnbull93/oystercard)
+ **Airport** | A simple project emulating an airport, made with TDD and OOP. | Ruby | [GitHub](https://github.com/hturnbull93/airport_challenge)
  **Student directory** | A simple program allowing student data to be entered, and saved to/loaded from csv files. | Ruby | [GitHub](https://github.com/hturnbull93/student-directory)
-
 
 ## Skills
 
@@ -39,7 +39,7 @@ During my time as a freelance web designer I have often worked on several projec
 
 ### Communication
 
-Often I have needed to keep multiple stakeholders informed about the progress of projects. I assses a stakeholder's requirements quickly to manage expectations and deliver information effectively.
+Often I have needed to keep multiple stakeholders informed about the progress of projects. I assess stakeholder requirements quickly to manage expectations and deliver information effectively.
 
 ### Team focussed
 
@@ -60,10 +60,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 A 16 week intensive programming bootcamp
 
-- OOP, TD, Pair programming
+- OOP, TDD, Pair programming
 - Ruby
 - RSpec
-- More skills to come as I progress through the coueaw
+- More skills to come as I progress through the course
 
 ### FreeCodeCamp (2018 - Present)
 
@@ -86,23 +86,22 @@ A 16 week intensive programming bootcamp
 
 - A levels - 2 A*s: Psychology, Biology - 2 A's: Chemistry, Physics
 
-
 ## Experience
 
-**The Nursery Theatre Ltd** (Nov 2017 to Present)    
+**The Nursery Theatre Ltd** (Nov 2017 to Present)
 *Digital Communication and Website Manager*  
+
 - Developed [thenurserytheatre.com](https://thenurserytheatre.com) in WordPress, using HTML/CSS/JS/PHP.
 - Maintain technical documents to assist users in updating content.
 - Renovated Google Ads campaigns, leading to an increase in click through rate.
 
-
-**Graphic and Web Design Freelancer** (Aug 2017 to Present)   
+**Graphic and Web Design Freelancer** (Aug 2017 to Present)
 *Freelancer*
 
 Generally my work has focussed on on front-end systems. I have gained good experience of HTML5, CSS3, and preprocessors such as SASS.
 
 - I have implemented UI's in line with customer's brand guidelines, while maintaining a good user experience.
-- Improvements I have made have contributed to the growth of in sales of clases and corporate workshops for both The Nursery Theatre and Hoopla Impro.
+- Improvements I have made have contributed to the growth of in sales of classes and corporate workshops for both The Nursery Theatre and Hoopla Impro.
 - Some examples:
   - [Heather Urquhart personal website](https://heatherurquhart.com) - WordPress
   - [Hoopla Impro corporate section](https://www.hooplaimpro.com/improv-corporate-training.html) - WordPress
@@ -110,13 +109,12 @@ Generally my work has focussed on on front-end systems. I have gained good exper
   - Front end of [Improv Guide](https://improv.guide/) - SCSS/Bootstrap in Python/Django
 - As part of developing these sites I created graphics using GIMP2/Adobe Photoshop, and prototyped using Figma.
 
-
-**Freedom Tech Ltd** (Nov 2015 to Jul 2017)    
+**Freedom Tech Ltd** (Nov 2015 to Jul 2017)
 *Marketing and Project Manager*
+
 - I set up automated tools for creating white label marketing assets for customers.
 - I developed web-scraping tools in VisualBasic to gather product data from supplier's online catalogues.
-- I assited with development of the customer portal system, focussing on UI, UX and QA.
-
+- I assisted with development of the customer portal system, focussing on UI, UX and QA.
 
 ## Hobbies and Interests
 
