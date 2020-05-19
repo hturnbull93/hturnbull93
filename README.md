@@ -31,7 +31,10 @@ Project | Details | Tech | Links
 - Team-player
 - Committed
 - Communication (written & verbal)
-- Thrives under pressure -->
+- Thrives under pressure
+
+Illustrate the skills using stories/examples.
+-->
 
 ### Time Management
 
