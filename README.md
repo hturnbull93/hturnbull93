@@ -24,7 +24,8 @@ A summary of the best projects I've worked on. All developed with Test Driven De
 
 ## Skills
 
-<!-- Ideas:
+<!-- 
+Ideas:
 - Quick Study
 - Adaptable
 - Creative
