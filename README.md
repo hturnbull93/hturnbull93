@@ -2,17 +2,17 @@
 
 I'm a freelance web developer, currently training at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) to become a junior developer.
 
-I have developed skills in Ruby, JavaScript, PHP, HTML and CSS.
-
 I want to create programs that are not only useful for users, but also engaging and interesting to keep them coming back for more.
 
 <div align="center">
-[Projects] | [Skills] | [Education] | [Experience] | [Hobbies & Interests] | [GitHub] | [Medium Blog] | [CodeWars]
+
+[Projects] | [Skills] | [Experience] | [Education] | [Hobbies & Interests] | [GitHub] | [Medium Blog] | [CodeWars]
+
 </div>
 
 ## Projects
 
-A summary of the best projects I've worked on. A full summary of all my projects is available [here](projects.md).
+A summary of the best projects I've worked on. All developed with Test Driven Development, and Object Oriented Principles, and XP/Agile when in groups. A full summary of all my projects is available [here](projects.md).
 
 | Project/GitHub          | Details                                                                                         | Tech                          | Additional Links                                                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -41,24 +41,28 @@ Illustrate the skills using stories/examples.
 
 ### Time Management
 
-During my time as a freelance web designer I have often worked on several projects simultaneously. I manage my time effectively, focussing on tasks of high importance and urgency first.
+During my time as a freelance web designer I often worked on several projects simultaneously. I manage my time effectively, focussing on tasks of high importance and urgency first.
 
 ### Communication
 
 Often I have needed to keep multiple stakeholders informed about the progress of projects. I assess stakeholder requirements quickly to manage expectations and deliver information effectively.
 
-### Team focussed
+### Team Focussed
 
 I have often worked as a part of a team for various professional and personal projects. I make sure each member's contributions are heard and that all members take part in making decisions.
 
-<!-- ### 2-4 skills
+<!-- 
+
+### 2-4 skills
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.) -->
+- A link to some on-line evidence (blogs, videos, articles, etc.) 
+- 
+- -->
 
 ## Experience
 
@@ -94,12 +98,71 @@ _Marketing and Project Manager_
 
 ### Makers Academy (Feb 2020 to Jun 2020)
 
-A 16 week intensive programming bootcamp
+A 16 week intensive programming bootcamp, during which I have gained experience with and applied to projects the following:
 
-- OOP, TDD, Pair programming
-- Ruby
-- RSpec
-- More skills to come as I progress through the course
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+      <th>Concepts/Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Ruby</li>
+          <li>JavaScript</li>
+          <li>HTML5</li>
+          <li>CSS3</li>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Rails</li>
+          <li>Sinatra</li>
+          <li>Node.js</li>
+          <li>Express</li>
+          <li>jQuery</li>
+          <li>React</li>
+          <li>PostgreSQL</li>
+          <li>MongoDB</li>
+          <li>TravisCI</li>
+          <li>Heroku</li>
+          <li>Surge</li>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>RSpec</li>
+          <li>Capybara</li>
+          <li>Jasmine</li>
+          <li>Mocha</li>
+          <li>Chai</li>
+          <li>Sinon</li>
+          <li>Jest</li>
+          <li>Enzyme</li>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>XP/Agile methodology</li>
+          <li>TDD/BDD</li>
+          <li>Object Oriented Design</li>
+          <li>Pair programming</li>
+          <li>Continuous Integration/Deployment</li>
+          <li>Git workflow</li>
+          <li>Code review</li>
+          <li>MVC Pattern</li>
+          <li>RESTful APIs</li>
+          <li>VSCode</li>
+          <li>Postman</li>
+          <li>Windows 10</li>
+          <li>Linux (Ubuntu)</li>
+          <li>OSx</li>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### FreeCodeCamp (2018 - Present)
 
@@ -158,9 +221,9 @@ Add expanded tech to projects?
 
 Add contact details, twitter, LinkedIn, Email,
 
-Align h1 center?
+flesh out tech stack experience, examples:
 
-Example code:
+Examples of things to add:
 
 <p align="center">
 <a href="https://twitter.com/fake_roogle">
@@ -173,14 +236,6 @@ Example code:
 
 <div align="center">
 
-[Background ](#background) |
-[Projects ](#projects) |
-[Skills ](#skills) |
-[Experience ](#experience) |
-[Education ](#education) |
-[Interests ](#interests)
-
 </div>
-
 
 -->
