@@ -22,7 +22,7 @@
 [bank tech test]: https://github.com/hturnbull93/bank
 [neogram]: https://github.com/hturnbull93/instagram-challenge
 [bowling scorecard]: https://github.com/hturnbull93/bowling-challenge
-[news summary]: https://github.com/hturnbull93/AAAAAAAAAAAA
+[news summary]: https://github.com/hturnbull93/news-summary-challenge
 [acebook/myspace]: https://github.com/hturnbull93/acebook-myspace
 [thermostat]: https://github.com/hturnbull93/thermostat
 [chitter]: https://github.com/hturnbull93/chitter-challenge

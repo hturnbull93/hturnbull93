@@ -58,6 +58,36 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
+## Experience
+
+**The Nursery Theatre Ltd** (Nov 2017 to Present)
+_Digital Communication and Website Manager_
+
+- Developed [thenurserytheatre.com](https://thenurserytheatre.com) in WordPress, using HTML/CSS/JS/PHP.
+- Maintain technical documents to assist users in updating content.
+- Renovated Google Ads campaigns, leading to an increase in click through rate.
+
+**Graphic and Web Design Freelancer** (Aug 2017 to Present)
+_Freelancer_
+
+Generally my work has focussed on on front-end systems. I have gained good experience of HTML5, CSS3, and preprocessors such as SASS.
+
+- I have implemented UI's in line with customer's brand guidelines, while maintaining a good user experience.
+- Improvements I have made have contributed to the growth of in sales of classes and corporate workshops for both The Nursery Theatre and Hoopla Impro.
+- Some examples:
+  - [Heather Urquhart personal website](https://heatherurquhart.com) - WordPress
+  - [Hoopla Impro corporate section](https://www.hooplaimpro.com/improv-corporate-training.html) - WordPress
+  - [Gamez Improv](https://gamezimprov.com/) - WordPress
+  - Front end of [Improv Guide](https://improv.guide/) - SCSS/Bootstrap in Python/Django
+- As part of developing these sites I created graphics using GIMP2/Adobe Photoshop, and prototyped using Figma.
+
+**Freedom Tech Ltd** (Nov 2015 to Jul 2017)
+_Marketing and Project Manager_
+
+- I set up automated tools for creating white label marketing assets for customers.
+- I developed web-scraping tools in VisualBasic to gather product data from supplier's online catalogues.
+- I assisted with development of the customer portal system, focussing on UI, UX and QA.
+
 ## Education
 
 ### Makers Academy (Feb 2020 to Jun 2020)
@@ -90,41 +120,13 @@ A 16 week intensive programming bootcamp
 
 - A levels - 2 A\*s: Psychology, Biology - 2 A's: Chemistry, Physics
 
-## Experience
-
-**The Nursery Theatre Ltd** (Nov 2017 to Present)
-_Digital Communication and Website Manager_
-
-- Developed [thenurserytheatre.com](https://thenurserytheatre.com) in WordPress, using HTML/CSS/JS/PHP.
-- Maintain technical documents to assist users in updating content.
-- Renovated Google Ads campaigns, leading to an increase in click through rate.
-
-**Graphic and Web Design Freelancer** (Aug 2017 to Present)
-_Freelancer_
-
-Generally my work has focussed on on front-end systems. I have gained good experience of HTML5, CSS3, and preprocessors such as SASS.
-
-- I have implemented UI's in line with customer's brand guidelines, while maintaining a good user experience.
-- Improvements I have made have contributed to the growth of in sales of classes and corporate workshops for both The Nursery Theatre and Hoopla Impro.
-- Some examples:
-  - [Heather Urquhart personal website](https://heatherurquhart.com) - WordPress
-  - [Hoopla Impro corporate section](https://www.hooplaimpro.com/improv-corporate-training.html) - WordPress
-  - [Gamez Improv](https://gamezimprov.com/) - WordPress
-  - Front end of [Improv Guide](https://improv.guide/) - SCSS/Bootstrap in Python/Django
-- As part of developing these sites I created graphics using GIMP2/Adobe Photoshop, and prototyped using Figma.
-
-**Freedom Tech Ltd** (Nov 2015 to Jul 2017)
-_Marketing and Project Manager_
-
-- I set up automated tools for creating white label marketing assets for customers.
-- I developed web-scraping tools in VisualBasic to gather product data from supplier's online catalogues.
-- I assisted with development of the customer portal system, focussing on UI, UX and QA.
-
 ## Hobbies and Interests
 
 - **Improvised theatre and comedy** - I perform improvised shows with my group, live on stage with no script, based on audience suggestion. Skills from improv have great applications in the workplace too, such as active listening, generating ideas, building trust within teams, and working out of joy instead of fear.
 
 - **Cycling** - I enjoy cycling, especially e-bikes.
+
+- **Running** - I run to keep fit, and sometimes I enjoy it.
 
 <!-- Menu internal Links -->
 
@@ -144,4 +146,14 @@ _Marketing and Project Manager_
 [bank tech test]: https://github.com/hturnbull93/bank
 [neogram]: https://github.com/hturnbull93/instagram-challenge
 [bowling scorecard]: https://github.com/hturnbull93/bowling-challenge
-[news summary]: https://github.com/hturnbull93/AAAAAAAAAAAA
+[news summary]: https://github.com/hturnbull93/news-summary-challenge
+
+<!--
+
+TODO:
+
+Add expanded tech to projects?
+
+
+-->
+
