@@ -10,14 +10,15 @@ I want to create programs that are not only useful for users, but also engaging 
 
 ## Projects
 
-A summary of the best projects I've worked on. These and more projects available on my [GitHub].
+A summary of the best projects I've worked on. A full summary of all my projects is available [here](projects.md).
 
-Project | Details | Tech | Links
---|---|---|---
- **Boggle** | A digital version of the popular board game Boggle, which generates the board and receives player input through the command line. | Ruby | [GitHub](https://github.com/hturnbull93/boggle-in-ruby), [Development blog](https://medium.com/@hturnbull93/boggle-in-ruby-dice-and-grids-425bb17625ee) 
- **Oystercard** | A simple project emulating an Oystercard, made with TDD and OOP. | Ruby | [GitHub](https://github.com/hturnbull93/oystercard)
- **Airport** | A simple project emulating an airport, made with TDD and OOP. | Ruby | [GitHub](https://github.com/hturnbull93/airport_challenge)
- **Student directory** | A simple program allowing student data to be entered, and saved to/loaded from csv files. | Ruby | [GitHub](https://github.com/hturnbull93/student-directory)
+| Project/GitHub          | Details                                                                                         | Tech                                 | Additional Links                                                                                                                            |
+| ----------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Mission-Ctrl]**      | Group project. An arcade style game to learn VSCode shortcuts                                   | MongoDB, Express, React, Node        | [Deployed](http://mission-ctrl.surge.sh/), [Backend API](https://github.com/hturnbull93/mission-ctrl-api-node)                              |
+| **[Bank Tech Test]**    | A CLI program emulating a bank account, test driven in 3 languages.                             | Ruby, JavaScript, Python             | [Python version](https://github.com/hturnbull93/bank-py), [JavaScript version](https://github.com/hturnbull93/bank-node)                    |
+| **[Neogram]**           | A social media photo sharing web-app, inspired by instagram and neomorphism design              | Ruby on Rails, HTML CSS              |                                                                                                                                             |
+| **[Bowling Scorecard]** | An immersive bowling scorecard.                                                                 | Vanilla JS, HTML, CSS                | [Deployed](http://immersive-bowling-scorecard.surge.sh/)                                                                                    |
+| **[News Summary]**      | A single page web app, using AJAX to consume the Guardian API, using vanilla HTML, CSS, and JS. | Vanilla JS, HTML, CSS                | [Deployed](http://guardian-summariser.surge.sh/)                                                                                            |
 
 ## Skills
 
@@ -87,19 +88,19 @@ A 16 week intensive programming bootcamp
 
 ### Aldenham School (Sep 2006 - Aug 2011)
 
-- A levels - 2 A*s: Psychology, Biology - 2 A's: Chemistry, Physics
+- A levels - 2 A\*s: Psychology, Biology - 2 A's: Chemistry, Physics
 
 ## Experience
 
 **The Nursery Theatre Ltd** (Nov 2017 to Present)
-*Digital Communication and Website Manager*  
+_Digital Communication and Website Manager_
 
 - Developed [thenurserytheatre.com](https://thenurserytheatre.com) in WordPress, using HTML/CSS/JS/PHP.
 - Maintain technical documents to assist users in updating content.
 - Renovated Google Ads campaigns, leading to an increase in click through rate.
 
 **Graphic and Web Design Freelancer** (Aug 2017 to Present)
-*Freelancer*
+_Freelancer_
 
 Generally my work has focussed on on front-end systems. I have gained good experience of HTML5, CSS3, and preprocessors such as SASS.
 
@@ -108,12 +109,12 @@ Generally my work has focussed on on front-end systems. I have gained good exper
 - Some examples:
   - [Heather Urquhart personal website](https://heatherurquhart.com) - WordPress
   - [Hoopla Impro corporate section](https://www.hooplaimpro.com/improv-corporate-training.html) - WordPress
-  - [Gamez Improv](https://gamezimprov.com/) - WordPress  
+  - [Gamez Improv](https://gamezimprov.com/) - WordPress
   - Front end of [Improv Guide](https://improv.guide/) - SCSS/Bootstrap in Python/Django
 - As part of developing these sites I created graphics using GIMP2/Adobe Photoshop, and prototyped using Figma.
 
 **Freedom Tech Ltd** (Nov 2015 to Jul 2017)
-*Marketing and Project Manager*
+_Marketing and Project Manager_
 
 - I set up automated tools for creating white label marketing assets for customers.
 - I developed web-scraping tools in VisualBasic to gather product data from supplier's online catalogues.
@@ -126,12 +127,21 @@ Generally my work has focussed on on front-end systems. I have gained good exper
 - **Cycling** - I enjoy cycling, especially e-bikes.
 
 <!-- Menu internal Links -->
-[Projects]: #projects
-[Skills]: #skills
-[Education]: #education
-[Experience]: #experience
-[Hobbies & Interests]: #hobbies-and-interests
-[Twitter]: https://twitter.com/hturnbull
-[GitHub]: https://github.com/hturnbull93
-[Medium Blog]: https://medium.com/@hturnbull93
-[CodeWars]: https://www.codewars.com/users/hturnbull93
+
+[projects]: #projects
+[skills]: #skills
+[education]: #education
+[experience]: #experience
+[hobbies & interests]: #hobbies-and-interests
+[twitter]: https://twitter.com/hturnbull
+[github]: https://github.com/hturnbull93
+[medium blog]: https://medium.com/@hturnbull93
+[codewars]: https://www.codewars.com/users/hturnbull93
+
+<!-- Project Links -->
+
+[mission-ctrl]: https://github.com/tommyrharper/mission-ctrl
+[bank tech test]: https://github.com/hturnbull93/bank
+[neogram]: https://github.com/hturnbull93/instagram-challenge
+[bowling scorecard]: https://github.com/hturnbull93/bowling-challenge
+[news summary]: https://github.com/hturnbull93/AAAAAAAAAAAA
