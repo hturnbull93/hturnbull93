@@ -6,7 +6,9 @@ I have developed skills in Ruby, JavaScript, PHP, HTML and CSS.
 
 I want to create programs that are not only useful for users, but also engaging and interesting to keep them coming back for more.
 
+<div align="center">
 [Projects] | [Skills] | [Education] | [Experience] | [Hobbies & Interests] | [GitHub] | [Medium Blog] | [CodeWars]
+</div>
 
 ## Projects
 
@@ -15,7 +17,7 @@ A summary of the best projects I've worked on. A full summary of all my projects
 | Project/GitHub          | Details                                                                                         | Tech                          | Additional Links                                                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **[Mission-Ctrl]**      | Group project. An arcade style game to learn VSCode shortcuts                                   | MongoDB, Express, React, Node | [Deployed](http://mission-ctrl.surge.sh/), [Backend API](https://github.com/hturnbull93/mission-ctrl-api-node)           |
-| **[Bank Tech Test]**    | A CLI program emulating a bank account, test driven in 3 languages.                             | Ruby, JavaScript, Python      | [Python version](https://github.com/hturnbull93/bank-py), [JavaScript version](https://github.com/hturnbull93/bank-node) |
+| **[Bank Tech Test]**    | A CLI program emulating a bank account, showcasing test driven development in 3 languages.      | Ruby, JavaScript, Python      | [Python version](https://github.com/hturnbull93/bank-py), [JavaScript version](https://github.com/hturnbull93/bank-node) |
 | **[Neogram]**           | A social media photo sharing web-app, inspired by instagram and neomorphism design              | Ruby on Rails, HTML CSS       |                                                                                                                          |
 | **[Bowling Scorecard]** | An immersive bowling scorecard.                                                                 | Vanilla JS, HTML, CSS         | [Deployed](http://immersive-bowling-scorecard.surge.sh/)                                                                 |
 | **[News Summary]**      | A single page web app, using AJAX to consume the Guardian API, using vanilla HTML, CSS, and JS. | Vanilla JS, HTML, CSS         | [Deployed](http://guardian-summariser.surge.sh/)                                                                         |
@@ -60,14 +62,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**The Nursery Theatre Ltd** (Nov 2017 to Present)
+**The Nursery Theatre Ltd** (Nov 2017 to Present)  
 _Digital Communication and Website Manager_
 
 - Developed [thenurserytheatre.com](https://thenurserytheatre.com) in WordPress, using HTML/CSS/JS/PHP.
 - Maintain technical documents to assist users in updating content.
 - Renovated Google Ads campaigns, leading to an increase in click through rate.
 
-**Graphic and Web Design Freelancer** (Aug 2017 to Present)
+**Graphic and Web Design Freelancer** (Aug 2017 to Present)  
 _Freelancer_
 
 Generally my work has focussed on on front-end systems. I have gained good experience of HTML5, CSS3, and preprocessors such as SASS.
@@ -81,7 +83,7 @@ Generally my work has focussed on on front-end systems. I have gained good exper
   - Front end of [Improv Guide](https://improv.guide/) - SCSS/Bootstrap in Python/Django
 - As part of developing these sites I created graphics using GIMP2/Adobe Photoshop, and prototyped using Figma.
 
-**Freedom Tech Ltd** (Nov 2015 to Jul 2017)
+**Freedom Tech Ltd** (Nov 2015 to Jul 2017)  
 _Marketing and Project Manager_
 
 - I set up automated tools for creating white label marketing assets for customers.
@@ -154,6 +156,31 @@ TODO:
 
 Add expanded tech to projects?
 
+Add contact details, twitter, LinkedIn, Email,
+
+Align h1 center?
+
+Example code:
+
+<p align="center">
+<a href="https://twitter.com/fake_roogle">
+<img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
+<a href="https://medium.com/@defc0nONE">
+<img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.linkedin.com/in/christopher-ly-83121619/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+
+<div align="center">
+
+[Background ](#background) |
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Experience ](#experience) |
+[Education ](#education) |
+[Interests ](#interests)
+
+</div>
+
 
 -->
-
