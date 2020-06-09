@@ -2,10 +2,7 @@
 
 <style type="text/css">
   .nav {
-    border-color: #00000000;
-    text-align: left;
-    vertical-align: top;
-    width: 30%
+
   }
   .statement {
     border-color: #00000000;
@@ -16,7 +13,12 @@
 <table>
   <tbody>
     <tr>
-      <td class="nav">
+      <td style="
+        border-color: #00000000;
+        text-align: left;
+        vertical-align: top;
+        width: 30%
+      ">
         <h3>Sections</h3>
         <ul>
           <li><a href="#projects">Projects</a></li>
@@ -37,7 +39,11 @@
           <li><a href="https://www.codewars.com/users/hturnbull93">CodeWars</a></li>
         </ul>
       </td>
-      <td class="statement">
+      <td style="
+        border-color: #00000000;
+        text-align: left;
+        vertical-align: top
+      ">
         <p>
           I'm a freelance web developer, and trained at <a href="https://makers.tech/">Makers Academy</a> (London's leading programming bootcamp) to become a junior developer.
         </p>
