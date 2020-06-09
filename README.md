@@ -1,6 +1,6 @@
 # Harry Turnbull
 
-I'm a self trained freelance web developer. I've also trained at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) to become a junior developer.
+I'm a self-trained freelance web developer. I've also trained at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) to become a junior developer.
 
 I want to create software that is not only useful for users, but also engaging and interesting to keep them coming back for more.
 
@@ -12,7 +12,6 @@ Many jobs I've had have touched on programming, which has been the thing I found
 
 [Projects] | [Skills] | [Experience] | [Education] | [Hobbies & Interests]  
 [Twitter] | [Email] | [GitHub] | [Medium Blog] | [CodeWars]  
-
 
 </div>
 
@@ -46,7 +45,7 @@ Ideas:
 Illustrate the skills using stories/examples.
 -->
 
-### Team Focussed
+### Team-Focused
 
 During my final project at Makers we took on a new technology for us, React. While I already had some experience with React, a lot of the team hadn't.
 
@@ -60,9 +59,9 @@ At Makers we often worked in groups on larger scale projects, using XP/Agile met
 
 ### Communication
 
-Often I have needed to keep multiple stakeholders informed about the progress of projects, be they the project manager, a freelance client, or a team mate on the project.
+Often I have needed to keep multiple stakeholders informed about the progress of projects, be they the project manager, a freelance client, or a teammate on the project.
 
-Understanding each of their needs and clarifying the meaning of their questions allows me to give them the information they care about in a way they understand. 
+Understanding each of their needs and clarifying the meaning of their questions allows me to give them the information they care about in a way they understand.
 
 ### Technical Skill
 
@@ -191,26 +190,26 @@ _Marketing and Project Manager_
 
 ### Makers Academy (Feb 2020 to Jun 2020)
 
-- A 16 week intensive programming bootcamp. 
-- The training is primarily self-led, encouraging students to develop solutions to problems by themselves, in pairs, and in teams 
+- A 16 week intensive programming bootcamp.
+- The training is primarily self-led, encouraging students to develop solutions to problems by themselves, in pairs, and in teams.
 - The course champions Agile/XP methodologies and practices, such as pair programming, TDD and OOD.
 
 ### FreeCodeCamp (2018 - Present)
 
-- Responsive Web Design Certification - HTML5/CSS3
-- Working towards the Javascript Algorithms and Data Structures Certification - Javascript/ES6
-- [FreeCodeCamp profile](https://www.freecodecamp.org/hturnbull)
+- Responsive Web Design Certification - HTML5/CSS3.
+- Working towards the Javascript Algorithms and Data Structures Certification - Javascript/ES6.
+- [FreeCodeCamp profile](https://www.freecodecamp.org/hturnbull).
 
 ### Google Ads Certifications (2018)
 
-- Google Ads search and display networks certifications
+- Google Ads search and display networks certifications.
 
 ### University of Nottingham (Sep 2011 to Jun 2015)
 
-- MSci Life Sciences, specialising in microbiology and human genetics
-- Graduated with a 2:1
-- Studies required a methodical approach both in lectures and practical labs
-- Statistics modules involved data processing with R
+- MSci Life Sciences, specialising in microbiology and human genetics.
+- Graduated with a 2:1.
+- Studies required a methodical approach both in lectures and practical labs.
+- Statistics modules involved data processing with R.
 
 ### Aldenham School (Sep 2006 - Aug 2011)
 
@@ -271,5 +270,3 @@ Examples of things to add:
 </div>
 
 -->
-
-
