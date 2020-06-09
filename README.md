@@ -178,7 +178,7 @@ Generally my work has focussed on on front-end systems. I have gained good exper
   - [Hoopla Impro corporate section](https://www.hooplaimpro.com/improv-corporate-training.html) - WordPress
   - [Gamez Improv](https://gamezimprov.com/) - WordPress
   - Front end of [Improv Guide](https://improv.guide/) - SCSS/Bootstrap/Python/Django
-- As part of developing these sites I created graphics using GIMP2/Adobe Photoshop, and prototyped using Figma.
+- As part of developing these sites I created graphics using GIMP2/Photopea, and prototyped using Figma.
 
 **Freedom Tech Ltd** (Nov 2015 to Jul 2017)  
 _Marketing and Project Manager_
