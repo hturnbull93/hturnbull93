@@ -1,6 +1,6 @@
 # Harry Turnbull
 
-I'm a freelance web developer, and trained at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) to become a junior developer.
+I'm a self trained freelance web developer. I've also trained at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) to become a junior developer.
 
 I want to create software that is not only useful for users, but also engaging and interesting to keep them coming back for more.
 
@@ -64,6 +64,81 @@ Often I have needed to keep multiple stakeholders informed about the progress of
 
 Understanding each of their needs and clarifying the meaning of their questions allows me to give them the information they care about in a way they understand. 
 
+### Technical Skill
+
+I have worked with a variety of languages, technologies and softwares:
+
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+      <th>Concepts</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Ruby</li>
+          <li>JavaScript</li>
+          <li>HTML5</li>
+          <li>CSS3</li>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Rails</li>
+          <li>Sinatra</li>
+          <li>Node.js</li>
+          <li>Express</li>
+          <li>jQuery</li>
+          <li>React</li>
+          <li>PostgreSQL</li>
+          <li>MongoDB</li>
+          <li>TravisCI</li>
+          <li>Heroku</li>
+          <li>Surge</li>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>RSpec</li>
+          <li>Capybara</li>
+          <li>Jasmine</li>
+          <li>Mocha</li>
+          <li>Chai</li>
+          <li>Sinon</li>
+          <li>Jest</li>
+          <li>Enzyme</li>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>XP/Agile methodology</li>
+          <li>TDD/BDD</li>
+          <li>Object Oriented Design</li>
+          <li>Pair programming</li>
+          <li>Continuous Integration & Deployment</li>
+          <li>Git workflow</li>
+          <li>Code review</li>
+          <li>MVC Pattern</li>
+          <li>RESTful APIs</li>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>VSCode</li>
+          <li>Git</li>
+          <li>Figma</li>
+          <li>Photopea (FOSS alternative to Photoshop)</li>
+          <li>Postman</li>
+          <li>Windows 10</li>
+          <li>Linux (Ubuntu)</li>
+          <li>OSx</li>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
 
 ### 2-4 skills
@@ -111,71 +186,9 @@ _Marketing and Project Manager_
 
 ### Makers Academy (Feb 2020 to Jun 2020)
 
-A 16 week intensive programming bootcamp, during which I have gained experience with and applied to projects the following:
-
-<table>
-  <thead>
-    <tr>
-      <th>Languages</th>
-      <th>Technologies</th>
-      <th>Testing Frameworks</th>
-      <th>Concepts/Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="vertical-align: top">
-        <ul>
-          <li>Ruby</li>
-          <li>JavaScript</li>
-          <li>HTML5</li>
-          <li>CSS3</li>
-      </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>Rails</li>
-          <li>Sinatra</li>
-          <li>Node.js</li>
-          <li>Express</li>
-          <li>jQuery</li>
-          <li>React</li>
-          <li>PostgreSQL</li>
-          <li>MongoDB</li>
-          <li>TravisCI</li>
-          <li>Heroku</li>
-          <li>Surge</li>
-      </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>RSpec</li>
-          <li>Capybara</li>
-          <li>Jasmine</li>
-          <li>Mocha</li>
-          <li>Chai</li>
-          <li>Sinon</li>
-          <li>Jest</li>
-          <li>Enzyme</li>
-      </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>XP/Agile methodology</li>
-          <li>TDD/BDD</li>
-          <li>Object Oriented Design</li>
-          <li>Pair programming</li>
-          <li>Continuous Integration/Deployment</li>
-          <li>Git workflow</li>
-          <li>Code review</li>
-          <li>MVC Pattern</li>
-          <li>RESTful APIs</li>
-          <li>VSCode</li>
-          <li>Postman</li>
-          <li>Windows 10</li>
-          <li>Linux (Ubuntu)</li>
-          <li>OSx</li>
-      </td>
-    </tr>
-  </tbody>
-</table>
+- A 16 week intensive programming bootcamp. 
+- The training is primarily self-led, encouraging students to develop solutions to problems by themselves, in pairs, and in teams 
+- The course champions Agile/XP methodologies and practices, such as pair programming, TDD and OOD.
 
 ### FreeCodeCamp (2018 - Present)
 
