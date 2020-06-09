@@ -1,7 +1,6 @@
-<div id="mainContent">
+<div style="margin-left: 160px">
 
 # Harry Turnbull
-
 
 I'm a freelance web developer, and trained at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) to become a junior developer.
 
@@ -251,7 +250,16 @@ Examples of things to add:
 
 -->
 
-<div id="sideMenu">
+<div
+  style="
+  position: fixed;
+  height: 100%;
+  overflow: wrap;
+  top: 0;
+  left: 0;
+  padding: 3em 2em;
+  "
+>
 
 ### Sections
 
@@ -274,7 +282,7 @@ Examples of things to add:
 
 </div>
 
-<style>
+<!-- <style>
 #sideMenu {
   position: fixed;
   height: 100%;
@@ -287,4 +295,4 @@ Examples of things to add:
 #mainContent {
   margin-left: 160px
 }
-</style>
+</style> -->
