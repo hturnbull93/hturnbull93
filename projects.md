@@ -26,6 +26,7 @@
 [acebook/myspace]: https://github.com/hturnbull93/acebook-myspace
 [thermostat]: https://github.com/hturnbull93/thermostat
 [chitter]: https://github.com/hturnbull93/chitter-challenge
+[rpsls]: https://github.com/hturnbull93/rps-challenge
 [boggle]: https://github.com/hturnbull93/boggle-in-ruby
 [birthday greeter]: https://github.com/hturnbull93/birthday-greeter-app
 [takeaway]: https://github.com/hturnbull93/takeaway-challenge
