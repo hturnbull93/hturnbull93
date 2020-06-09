@@ -11,8 +11,8 @@ Many jobs I've had have touched on programming, which has been the thing I found
 <div align="center">
 
 [Projects] | [Skills] | [Experience] | [Education] | [Hobbies & Interests]  
-[GitHub] | [Medium Blog] | [CodeWars]  
-[Twitter] | [Email]  
+[Twitter] | [Email] | [GitHub] | [Medium Blog] | [CodeWars]  
+
 
 </div>
 
@@ -48,15 +48,21 @@ Illustrate the skills using stories/examples.
 
 ### Team Focussed
 
-I have often worked as a part of a team for various professional and personal projects. I make sure each member's contributions are heard and that all members take part in making decisions.
+During my final project at Makers we took on a new technology for us, React. While I already had some experience with React, a lot of the team hadn't.
 
-### Time Management
+The team progresses as a group, so in order to accelerate our project, I spent time making sure everyone had the necessary skills in React and Jest (the testing framework).
+
+### Project Organisation
 
 During my time as a freelance web designer I often worked on several projects simultaneously. I manage my time effectively, focussing on tasks of high importance and urgency first.
 
+At Makers we often worked in groups on larger scale projects, using XP/Agile methodologies and task tracking methodologies such as Kanban in order to keep our workflow managed and clear.
+
 ### Communication
 
-Often I have needed to keep multiple stakeholders informed about the progress of projects. I assess stakeholder requirements quickly to manage expectations and deliver information effectively.
+Often I have needed to keep multiple stakeholders informed about the progress of projects, be they the project manager, a freelance client, or a team mate on the project.
+
+Understanding each of their needs and clarifying the meaning of their questions allows me to give them the information they care about in a way they understand. 
 
 <!--
 
