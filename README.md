@@ -1,7 +1,18 @@
 # Harry Turnbull
 
-<div id="cv-container">
-<div id="cv-nav">
+<div 
+  id="cv-container" 
+  style="
+  display: flex;
+  "
+>
+
+<div 
+  id="cv-nav"
+  style="
+  width: 120px
+  "
+>
 
 ### Sections
 
@@ -24,7 +35,7 @@
 
 </div>
 
-<div id="cv-statement">
+<div id="cv-body">
 
 I'm a freelance web developer, and trained at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) to become a junior developer.
 
@@ -34,8 +45,6 @@ I got my start with programming at my first job after finishing university, wher
 
 Many jobs I've had have touched on programming, which has been the thing I found most interesting about them, which is why I have started my journey to become a software developer.
 
-</div>
-</div>
 
 
 <!-- 
@@ -230,6 +239,7 @@ A 16 week intensive programming bootcamp, during which I have gained experience 
 
 - **Running** - I run to keep fit, and sometimes I enjoy it.
 
+</div>
 </div>
 
 <!-- Menu internal Links -->
