@@ -14,17 +14,17 @@ I want to create programs that are not only useful for users, but also engaging 
 
 A summary of the best projects I've worked on. All developed with Test Driven Development, and Object Oriented Principles, and XP/Agile when in groups. A full summary of all my projects is available [here](projects.md).
 
-| Project/GitHub          | Details                                                                                         | Tech                          | Additional Links                                                                                                         |
-| ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| **[Mission-Ctrl]**      | Group project. An arcade style game to learn VSCode shortcuts                                   | MongoDB, Express, React, Node | [Deployed](http://mission-ctrl.surge.sh/), [Backend API](https://github.com/hturnbull93/mission-ctrl-api-node)           |
-| **[Bank Tech Test]**    | A CLI program emulating a bank account, showcasing test driven development in 3 languages.      | Ruby, JavaScript, Python      | [Python version](https://github.com/hturnbull93/bank-py), [JavaScript version](https://github.com/hturnbull93/bank-node) |
-| **[Neogram]**           | A social media photo sharing web-app, inspired by instagram and neomorphism design              | Ruby on Rails, HTML CSS       |                                                                                                                          |
-| **[Bowling Scorecard]** | An immersive bowling scorecard.                                                                 | Vanilla JS, HTML, CSS         | [Deployed](http://immersive-bowling-scorecard.surge.sh/)                                                                 |
-| **[News Summary]**      | A single page web app, using AJAX to consume the Guardian API, using vanilla HTML, CSS, and JS. | Vanilla JS, HTML, CSS         | [Deployed](http://guardian-summariser.surge.sh/)                                                                         |
+| Project/GitHub          | Details                                                                                         | Tech                                | Additional Links                                                                                                         |
+| ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **[Mission-Ctrl]**      | Group project. An arcade style game to learn VSCode shortcuts                                   | MongoDB, Express, React, Node, SCSS | [Deployed](http://mission-ctrl.surge.sh/), [Backend API](https://github.com/hturnbull93/mission-ctrl-api-node)           |
+| **[Bank Tech Test]**    | A CLI program emulating a bank account, showcasing test driven development in 3 languages.      | Ruby, JavaScript, Python            | [Python version](https://github.com/hturnbull93/bank-py), [JavaScript version](https://github.com/hturnbull93/bank-node) |
+| **[Neogram]**           | A social media photo sharing web-app, inspired by instagram and neomorphism design              | Ruby on Rails, HTML CSS             |                                                                                                                          |
+| **[Bowling Scorecard]** | An immersive bowling scorecard.                                                                 | Vanilla JS, HTML, CSS               | [Deployed](http://immersive-bowling-scorecard.surge.sh/)                                                                 |
+| **[News Summary]**      | A single page web app, using AJAX to consume the Guardian API, using vanilla HTML, CSS, and JS. | Vanilla JS, HTML, CSS               | [Deployed](http://guardian-summariser.surge.sh/)                                                                         |
 
 ## Skills
 
-<!-- 
+<!--
 Ideas:
 - Quick Study
 - Adaptable
@@ -52,7 +52,7 @@ Often I have needed to keep multiple stakeholders informed about the progress of
 
 I have often worked as a part of a team for various professional and personal projects. I make sure each member's contributions are heard and that all members take part in making decisions.
 
-<!-- 
+<!--
 
 ### 2-4 skills
 
@@ -61,7 +61,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.) 
+- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 - -->
 
@@ -85,7 +85,7 @@ Generally my work has focussed on on front-end systems. I have gained good exper
   - [Heather Urquhart personal website](https://heatherurquhart.com) - WordPress
   - [Hoopla Impro corporate section](https://www.hooplaimpro.com/improv-corporate-training.html) - WordPress
   - [Gamez Improv](https://gamezimprov.com/) - WordPress
-  - Front end of [Improv Guide](https://improv.guide/) - SCSS/Bootstrap in Python/Django
+  - Front end of [Improv Guide](https://improv.guide/) - SCSS/Bootstrap/Python/Django
 - As part of developing these sites I created graphics using GIMP2/Adobe Photoshop, and prototyped using Figma.
 
 **Freedom Tech Ltd** (Nov 2015 to Jul 2017)  
