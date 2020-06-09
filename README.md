@@ -1,70 +1,5 @@
 # Harry Turnbull
 
-<style type="text/css">
-  .nav {
-
-  }
-  .statement {
-    border-color: #00000000;
-    text-align: left;
-    vertical-align: top
-  }
-</style>
-<table>
-  <tbody>
-    <tr>
-      <td style="
-        border-color: #00000000;
-        text-align: left;
-        vertical-align: top;
-        width: 30%
-      ">
-        <h3>Sections</h3>
-        <ul>
-          <li><a href="#projects">Projects</a></li>
-          <li><a href="#skills">Skills</a></li>
-          <li><a href="#experience">Experience</a></li>
-          <li><a href="#education">Education</a></li>
-          <li><a href="#hobbies-and-interests">Hobbies & Interests</a></li>
-        </ul>
-        <h3>Contact</h3>
-        <ul>
-          <li><a href="https://twitter.com/hturnbull">Twitter</a></li>
-          <li><a href="mailto:hturnbull@live.co.uk">Email</a></li>
-        </ul>
-        <h3>Links</h3>
-        <ul>
-          <li><a href="https://github.com/hturnbull93">GitHub</a></li>
-          <li><a href="https://medium.com/@hturnbull93">Medium Blog</a></li>
-          <li><a href="https://www.codewars.com/users/hturnbull93">CodeWars</a></li>
-        </ul>
-      </td>
-      <td style="
-        border-color: #00000000;
-        text-align: left;
-        vertical-align: top
-      ">
-        <p>
-          I'm a freelance web developer, and trained at <a href="https://makers.tech/">Makers Academy</a> (London's leading programming bootcamp) to become a junior developer.
-        </p>
-        <p>
-          I want to create software that is not only useful for users, but also engaging and interesting to keep them coming back for more.
-        </p>
-        <p>
-          I got my start with programming at my first job after finishing university, where I built simple web scrapers in Microsoft VBA to automate tasks.
-        </p>
-        <p>
-          Many jobs I've had have touched on programming, which has been the thing I found most interesting about them, which is why I have started my journey to become a software developer.
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-<!-- 
-
 I'm a freelance web developer, and trained at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) to become a junior developer.
 
 I want to create software that is not only useful for users, but also engaging and interesting to keep them coming back for more.
@@ -73,15 +8,13 @@ I got my start with programming at my first job after finishing university, wher
 
 Many jobs I've had have touched on programming, which has been the thing I found most interesting about them, which is why I have started my journey to become a software developer.
 
- -->
+<div align="center">
 
-<!-- 
-<div id="sideMenu" align="center">
-
-[Projects] | [Skills] | [Experience] | [Education] | [Hobbies & Interests] | [GitHub] | [Medium Blog] | [CodeWars]
+[Projects] | [Skills] | [Experience] | [Education] | [Hobbies & Interests]  
+[GitHub] | [Medium Blog] | [CodeWars]  
+[Twitter] | [Email]  
 
 </div>
--->
 
 ## Projects
 
@@ -275,6 +208,7 @@ A 16 week intensive programming bootcamp, during which I have gained experience 
 [experience]: #experience
 [hobbies & interests]: #hobbies-and-interests
 [twitter]: https://twitter.com/hturnbull
+[email]: mailto:hturnbull@live.co.uk
 [github]: https://github.com/hturnbull93
 [medium blog]: https://medium.com/@hturnbull93
 [codewars]: https://www.codewars.com/users/hturnbull93
