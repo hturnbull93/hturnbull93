@@ -169,7 +169,7 @@ _Digital Communication and Website Manager_
 **Graphic and Web Design Freelancer** (Aug 2017 to Present)  
 _Freelancer_
 
-Generally my work has focused on on front-end systems. I have gained good experience of HTML5, CSS3, and preprocessors such as SASS.
+Generally my work has focused on front-end systems. I have gained good experience of HTML5, CSS3, and preprocessors such as SASS.
 
 - I have implemented UI's in line with customer's brand guidelines, while maintaining a good user experience.
 - Improvements I have made have contributed to the growth of in sales of classes and corporate workshops for both The Nursery Theatre and Hoopla Impro.
