@@ -86,6 +86,7 @@ I have worked with a variety of languages, technologies and softwares:
           <li>JavaScript</li>
           <li>HTML5</li>
           <li>CSS3</li>
+        </ul>
       </td>
       <td style="vertical-align: top">
         <ul>
@@ -100,6 +101,7 @@ I have worked with a variety of languages, technologies and softwares:
           <li>TravisCI</li>
           <li>Heroku</li>
           <li>Surge</li>
+        </ul>
       </td>
       <td style="vertical-align: top">
         <ul>
@@ -111,6 +113,7 @@ I have worked with a variety of languages, technologies and softwares:
           <li>Sinon</li>
           <li>Jest</li>
           <li>Enzyme</li>
+        </ul>
       </td>
       <td style="vertical-align: top">
         <ul>
@@ -123,6 +126,7 @@ I have worked with a variety of languages, technologies and softwares:
           <li>Code review</li>
           <li>MVC Pattern</li>
           <li>RESTful APIs</li>
+        </ul>
       </td>
       <td style="vertical-align: top">
         <ul>
@@ -134,6 +138,7 @@ I have worked with a variety of languages, technologies and softwares:
           <li>Windows 10</li>
           <li>Linux (Ubuntu)</li>
           <li>OSx</li>
+        </ul>
       </td>
     </tr>
   </tbody>
