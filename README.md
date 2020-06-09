@@ -35,6 +35,8 @@ I got my start with programming at my first job after finishing university, wher
 Many jobs I've had have touched on programming, which has been the thing I found most interesting about them, which is why I have started my journey to become a software developer.
 
 </div>
+</div>
+
 
 <!-- 
 <div id="sideMenu" align="center">
