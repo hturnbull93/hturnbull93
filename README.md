@@ -1,12 +1,12 @@
 # Harry Turnbull
 
-I want to create software that is not only useful for users, but also engaging and interesting to keep them coming back for more.
-
 I got my start with programming at my first job after finishing university, where I built simple web scrapers in Microsoft VBA to automate tasks, and many jobs I've had since then have touched on programming, which has been the thing I found most interesting about them.
 
-I have been a self-trained freelance web developer for the past three years, but I want to get on to the next level.
+I have been a self-trained freelance web developer for the past three years, but I wanted to get on to the next level.
 
 This is why I have started my journey to become a professional software developer by training at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp).
+
+I want to create software that is not only useful for users, but also engaging and interesting to keep them coming back for more.
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Often I have needed to keep multiple stakeholders informed about progress, be th
 
 Understanding each of their needs and clarifying the meaning of their questions allows me to give them the information they care about in a way they understand.
 
-### Technical Skill
+### Technical Knowledge
 
 I have worked with a variety of languages, technologies and softwares:
 
@@ -119,6 +119,7 @@ I have worked with a variety of languages, technologies and softwares:
           <li>XP/Agile methodology</li>
           <li>TDD/BDD</li>
           <li>Object Oriented Design</li>
+          <li>Remote working</li>
           <li>Pair programming</li>
           <li>Continuous Integration & Deployment</li>
           <li>Git workflow</li>
@@ -193,6 +194,7 @@ _Marketing and Project Manager_
 - A 16 week intensive programming bootcamp.
 - The training is primarily self-led, encouraging students to develop solutions to problems by themselves, in pairs, and in teams.
 - The course champions Agile/XP methodologies and practices, such as pair programming, TDD and OOD.
+- The course took place during the COVID-19 lockdown, so it pivoted entirely to remote working, which I have become very familiar with.
 
 ### FreeCodeCamp (2018 - Present)
 
