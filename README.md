@@ -1,14 +1,22 @@
+<div id="mainContent">
+
 # Harry Turnbull
 
-I'm a freelance web developer, currently training at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) to become a junior developer.
 
-I want to create programs that are not only useful for users, but also engaging and interesting to keep them coming back for more.
+I'm a freelance web developer, and trained at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) to become a junior developer.
 
-<div align="center">
+I want to create software that is not only useful for users, but also engaging and interesting to keep them coming back for more.
+
+I got my start with programming at my first job after finishing university, where I built simple web scrapers in Microsoft VBA to automate tasks.
+
+Many jobs I've had have touched on programming, which has been the thing I found most interesting about them, which is why I have started my journey to become a software developer.
+<!-- 
+<div id="sideMenu" align="center">
 
 [Projects] | [Skills] | [Experience] | [Education] | [Hobbies & Interests] | [GitHub] | [Medium Blog] | [CodeWars]
 
 </div>
+-->
 
 ## Projects
 
@@ -40,6 +48,10 @@ Ideas:
 Illustrate the skills using stories/examples.
 -->
 
+### Team Focussed
+
+I have often worked as a part of a team for various professional and personal projects. I make sure each member's contributions are heard and that all members take part in making decisions.
+
 ### Time Management
 
 During my time as a freelance web designer I often worked on several projects simultaneously. I manage my time effectively, focussing on tasks of high importance and urgency first.
@@ -47,10 +59,6 @@ During my time as a freelance web designer I often worked on several projects si
 ### Communication
 
 Often I have needed to keep multiple stakeholders informed about the progress of projects. I assess stakeholder requirements quickly to manage expectations and deliver information effectively.
-
-### Team Focussed
-
-I have often worked as a part of a team for various professional and personal projects. I make sure each member's contributions are heard and that all members take part in making decisions.
 
 <!--
 
@@ -194,6 +202,8 @@ A 16 week intensive programming bootcamp, during which I have gained experience 
 
 - **Running** - I run to keep fit, and sometimes I enjoy it.
 
+</div>
+
 <!-- Menu internal Links -->
 
 [projects]: #projects
@@ -240,3 +250,41 @@ Examples of things to add:
 </div>
 
 -->
+
+<div id="sideMenu">
+
+### Sections
+
+- [Projects]
+- [Skills]
+- [Experience]
+- [Education]
+- [Hobbies & Interests]
+
+### Links
+
+- [GitHub]
+- [Medium Blog]
+- [CodeWars]
+
+### Contact
+
+- Twitter
+- Email
+
+</div>
+
+<style>
+#sideMenu {
+  position: fixed;
+  height: 100%;
+  overflow: wrap;
+  top: 0;
+  left: 0;
+  padding: 3em 2em;
+}
+
+#mainContent {
+  margin-left: 160px
+}
+</style>
