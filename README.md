@@ -1,6 +1,30 @@
-<div style="margin-left: 160px">
-
 # Harry Turnbull
+
+<div id="cv-container">
+<div id="cv-nav">
+
+### Sections
+
+- [Projects]
+- [Skills]
+- [Experience]
+- [Education]
+- [Hobbies & Interests]
+
+### Contact
+
+- Twitter
+- Email
+
+### Links
+
+- [GitHub]
+- [Medium Blog]
+- [CodeWars]
+
+</div>
+
+<div id="cv-statement">
 
 I'm a freelance web developer, and trained at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) to become a junior developer.
 
@@ -9,6 +33,9 @@ I want to create software that is not only useful for users, but also engaging a
 I got my start with programming at my first job after finishing university, where I built simple web scrapers in Microsoft VBA to automate tasks.
 
 Many jobs I've had have touched on programming, which has been the thing I found most interesting about them, which is why I have started my journey to become a software developer.
+
+</div>
+
 <!-- 
 <div id="sideMenu" align="center">
 
@@ -250,49 +277,4 @@ Examples of things to add:
 
 -->
 
-<div
-  style="
-  position: fixed;
-  height: 100%;
-  overflow: wrap;
-  top: 0;
-  left: 0;
-  padding: 3em 2em;
-  "
->
 
-### Sections
-
-- [Projects]
-- [Skills]
-- [Experience]
-- [Education]
-- [Hobbies & Interests]
-
-### Links
-
-- [GitHub]
-- [Medium Blog]
-- [CodeWars]
-
-### Contact
-
-- Twitter
-- Email
-
-</div>
-
-<!-- <style>
-#sideMenu {
-  position: fixed;
-  height: 100%;
-  overflow: wrap;
-  top: 0;
-  left: 0;
-  padding: 3em 2em;
-}
-
-#mainContent {
-  margin-left: 160px
-}
-</style> -->
