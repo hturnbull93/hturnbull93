@@ -2,9 +2,7 @@
 
 I want to create software that is not only useful for users, but also engaging and interesting to keep them coming back for more.
 
-I got my start with programming at my first job after finishing university, where I built simple web scrapers in Microsoft VBA to automate tasks.
-
-Many jobs I've had have touched on programming, which has been the thing I found most interesting about them.
+I got my start with programming at my first job after finishing university, where I built simple web scrapers in Microsoft VBA to automate tasks, and many jobs I've had since then have touched on programming, which has been the thing I found most interesting about them.
 
 I have been a self-trained freelance web developer for the past three years, but I want to get on to the next level.
 
