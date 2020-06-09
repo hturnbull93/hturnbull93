@@ -47,19 +47,19 @@ Illustrate the skills using stories/examples.
 
 ### Team-Focused
 
-During my final project at Makers we took on a new technology for us, React. While I already had some experience with React, a lot of the team hadn't.
+During my final project at Makers, we took on React. While I already had some experience with React, a lot of the team hadn't.
 
-The team progresses as a group, so in order to accelerate our project, I spent time making sure everyone had the necessary skills in React and Jest (the testing framework) to contribute as effectively as possible.
+In order to accelerate our project and to progress as a group, I spent time making sure everyone had the necessary skills in React and Jest (the testing framework) to contribute as effectively as possible.
 
 ### Project Organisation
 
-During my time as a freelance web designer I often worked on several projects simultaneously. I manage my time effectively, focussing on tasks of high importance and urgency first.
+During my time as a freelance web designer I often worked on several projects simultaneously. I manage my time effectively, focusing on tasks of high importance and urgency first.
 
-At Makers we often worked in groups on larger scale projects, using XP/Agile methodologies and task tracking methodologies such as Kanban in order to keep our workflow managed and clear.
+At Makers we often worked in groups on larger scale projects. Using XP/Agile methodologies and task tracking methodologies such as Kanban, I ensured our workflow was clear and efficiently managed.
 
 ### Communication
 
-Often I have needed to keep multiple stakeholders informed about the progress of projects, be they the project manager, a freelance client, or a teammate on the project.
+Often I have needed to keep multiple stakeholders informed about progress, be they the project manager, a freelance client, or a teammate.
 
 Understanding each of their needs and clarifying the meaning of their questions allows me to give them the information they care about in a way they understand.
 
@@ -168,7 +168,7 @@ _Digital Communication and Website Manager_
 **Graphic and Web Design Freelancer** (Aug 2017 to Present)  
 _Freelancer_
 
-Generally my work has focussed on on front-end systems. I have gained good experience of HTML5, CSS3, and preprocessors such as SASS.
+Generally my work has focused on on front-end systems. I have gained good experience of HTML5, CSS3, and preprocessors such as SASS.
 
 - I have implemented UI's in line with customer's brand guidelines, while maintaining a good user experience.
 - Improvements I have made have contributed to the growth of in sales of classes and corporate workshops for both The Nursery Theatre and Hoopla Impro.
@@ -184,7 +184,7 @@ _Marketing and Project Manager_
 
 - I set up automated tools for creating white label marketing assets for customers.
 - I developed web-scraping tools in VisualBasic to gather product data from supplier's online catalogues.
-- I assisted with development of the customer portal system, focussing on UI, UX and QA.
+- I assisted with development of the customer portal system, focusing on UI, UX and QA.
 
 ## Education
 
