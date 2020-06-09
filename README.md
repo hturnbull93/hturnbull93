@@ -50,7 +50,7 @@ Illustrate the skills using stories/examples.
 
 During my final project at Makers we took on a new technology for us, React. While I already had some experience with React, a lot of the team hadn't.
 
-The team progresses as a group, so in order to accelerate our project, I spent time making sure everyone had the necessary skills in React and Jest (the testing framework).
+The team progresses as a group, so in order to accelerate our project, I spent time making sure everyone had the necessary skills in React and Jest (the testing framework) to contribute as effectively as possible.
 
 ### Project Organisation
 
