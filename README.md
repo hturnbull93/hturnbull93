@@ -1,6 +1,6 @@
 # Harry Turnbull
 
-After graduating university with a Masters in Life Sciences, I got to grips with programming at my first job, where I built simple web scrapers in Microsoft VBA to automate tasks. Many jobs I've had since then have touched on programming, which has been the thing I found most interesting about them.
+After graduating university with a Masters in Life Sciences I got to grips with programming at my first job where I built simple web scrapers in Microsoft VBA to automate tasks. Many jobs I've had since then have touched on programming, which has been the thing I found most interesting about them.
 
 I have been a self-trained freelance web developer for the past three years, but I wanted to get on to the next level. This passion led me to train at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) in order to become a professional software developer.
 
@@ -8,7 +8,8 @@ I want to create software that is not only useful for users, but also engaging a
 
 <div align="center">
 
-[Projects] | [Skills] | [Experience] | [Education] | [Hobbies & Interests][twitter] | [Email] | [GitHub] | [Medium Blog] | [CodeWars]
+Section navigation - [Projects] | [Skills] | [Experience] | [Education] | [Hobbies & Interests]  
+Contact/more links - [Twitter] | [LinkedIn] | [Email] | [GitHub] | [Medium Blog] | [CodeWars]
 
 </div>
 
@@ -156,15 +157,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**The Nursery Theatre Ltd** (Nov 2017 to Present)  
-_Digital Communication and Website Manager_
+### The Nursery Theatre Ltd
+
+_Digital Communication and Website Manager_ (Nov 2017 to Present)
 
 - Developed [thenurserytheatre.com](https://thenurserytheatre.com) in WordPress, using HTML/CSS/JS/PHP.
 - Maintain technical documents to assist users in updating content.
 - Renovated Google Ads campaigns, leading to an increase in click through rate.
 
-**Graphic and Web Design Freelancer** (Aug 2017 to Present)  
-_Freelancer_
+### Graphic and Web Design Freelancer
+
+_Freelancer_ (Aug 2017 to Present)
 
 Generally my work has focused on front-end systems. I have gained good experience of HTML5, CSS3, and preprocessors such as SASS.
 
@@ -177,12 +180,14 @@ Generally my work has focused on front-end systems. I have gained good experienc
   - Front end of [Improv Guide](https://improv.guide/) - SCSS/Bootstrap/Python/Django
 - As part of developing these sites I created graphics using GIMP2/Photopea, and prototyped using Figma.
 
-**Freedom Tech Ltd** (Nov 2015 to Jul 2017)  
-_Marketing and Project Manager_
+### Freedom Tech Ltd
 
+_Marketing and Project Manager_ (Nov 2015 to Jul 2017)
+
+- This role was to ensure partner/client had all marketing materials and reports provided and their services ran to schedule.
 - I set up automated tools for creating white label marketing assets for customers.
 - To speed up gathering product data from supplier's online catalogues I developed web-scraping tools in VisualBasic .
-- I assisted with development of the customer portal system, focusing on UI, UX and QA.
+- I assisted with development of the proprietary internal portal systems, focusing on UI, UX and QA.
 
 ## Education
 
@@ -205,8 +210,8 @@ _Marketing and Project Manager_
 
 ### University of Nottingham (Sep 2011 to Jun 2015)
 
-- MSci Life Sciences, specialising in microbiology and human genetics.
-- Graduated with a 2:1.
+- MSci Life Sciences, Graduated with a 2:1
+- Specialised in human genetics, with my final year dissertation and project investigating the efficacy of Haplotype Fusion PCR as an assay to detect allele specific copy number variation in the human amylase gene cluster.
 - Studies required a methodical approach both in lectures and practical labs.
 - Statistics modules involved data processing with R.
 
@@ -230,6 +235,7 @@ _Marketing and Project Manager_
 [experience]: #experience
 [hobbies & interests]: #hobbies-and-interests
 [twitter]: https://twitter.com/hturnbull
+[LinkedIn]: https://www.linkedin.com/in/harry-turnbull
 [email]: mailto:hturnbull@live.co.uk
 [github]: https://github.com/hturnbull93
 [medium blog]: https://medium.com/@hturnbull93
