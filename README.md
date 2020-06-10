@@ -27,22 +27,6 @@ A summary of the best projects I've worked on. All developed with Test Driven De
 
 ## Skills
 
-<!--
-Ideas:
-- Quick Study
-- Adaptable
-- Creative
-- Inquisitive
-- Attention to detail/analytical
-- Enthusiastic
-- Team-player
-- Committed
-- Communication (written & verbal)
-- Thrives under pressure
-
-Illustrate the skills using stories/examples.
--->
-
 ### Team-Focused
 
 During my final project at Makers, we took on React. While I already had some experience with React, a lot of the team hadn't.
@@ -57,9 +41,9 @@ At Makers we often worked in groups on larger scale projects. Using XP/Agile met
 
 ### Communication
 
-Often I have needed to keep multiple stakeholders informed about progress, be they the project manager, a freelance client, or a teammate.
+Often I have needed to keep multiple stakeholders informed about progress, be they the project manager, a freelance client, or a teammate. Understanding each of their needs and clarifying the meaning of their questions allows me to give them the information they care about in a way they understand.
 
-Understanding each of their needs and clarifying the meaning of their questions allows me to give them the information they care about in a way they understand.
+I believe the best way to know if you truly understand something is to communicate it clearly to someone else. With that in mind I maintain a [Medium blog] of things I learn and want to share my understanding of.
 
 ### Technical Knowledge
 
@@ -141,19 +125,6 @@ I have worked with a variety of languages, technologies and softwares:
     </tr>
   </tbody>
 </table>
-
-<!--
-
-### 2-4 skills
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-- -->
 
 ## Experience
 
@@ -258,30 +229,3 @@ _Marketing and Project Manager_ (Nov 2015 to Jul 2017)
 [neogram]: https://github.com/hturnbull93/instagram-challenge
 [bowling scorecard]: https://github.com/hturnbull93/bowling-challenge
 [news summary]: https://github.com/hturnbull93/news-summary-challenge
-
-<!--
-
-TODO:
-
-Add expanded tech to projects?
-
-Add contact details, twitter, LinkedIn, Email,
-
-flesh out tech stack experience, examples:
-
-Examples of things to add:
-
-<p align="center">
-<a href="https://twitter.com/fake_roogle">
-<img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
-<a href="https://medium.com/@defc0nONE">
-<img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
-
-<a href="https://www.linkedin.com/in/christopher-ly-83121619/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
-
-<div align="center">
-
-</div>
-
--->
