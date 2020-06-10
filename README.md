@@ -137,7 +137,7 @@ I have worked with a variety of languages, technologies and softwares:
           <li>Postman</li>
           <li>Windows 10</li>
           <li>Linux (Ubuntu)</li>
-          <li>OSx</li>
+          <li>OS X</li>
         </ul>
       </td>
     </tr>
