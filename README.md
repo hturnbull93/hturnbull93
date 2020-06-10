@@ -2,10 +2,11 @@
 
 I want to be a part of a team of passionate, smart people, working to build useful apps that consumers enjoy using.
 
-After graduating university with a Masters in Life Sciences I got to grips with programming at my first job where I built simple web scrapers in Microsoft VBA to automate tasks. Many jobs I've had since then have touched on programming, which has been the thing I found most interesting about them.
+I have been a self-trained freelance web developer for the past three years. I'm passionate about the intersection of technology of creativity. This led me to train at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) in order to become upskilled with best practice tools and methodologies to become a professional Front End Developer.
 
-I have been a self-trained freelance web developer for the past three years, but I wanted to get on to the next level. This passion led me to train at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) in order to become a professional Front End Developer.
+I'm looking for opportunities where I can continue to learn, challenge myself and work with great people to build amazing things.
 
+<!-- After graduating university with a Masters in Life Sciences I got to grips with programming at my first job where I built simple web scrapers in Microsoft VBA to automate tasks. Many jobs I've had since then have touched on programming, which has been the thing I found most interesting about them. -->
 <div align="center">
 
 Section navigation - [Projects] | [Skills] | [Experience] | [Education] | [Hobbies & Interests]  
