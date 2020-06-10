@@ -191,31 +191,41 @@ _Marketing and Project Manager_ (Nov 2015 to Jul 2017)
 
 ## Education
 
-### Makers Academy (Feb 2020 to Jun 2020)
+### Makers Academy
+
+(Feb 2020 to Jun 2020)
 
 - A 16 week intensive programming bootcamp.
 - The training is primarily self-led, encouraging students to develop solutions to problems by themselves, in pairs, and in teams.
 - Makers champions Agile/XP methodologies and practices, such as pair programming, TDD and OOD.
 - I have become familiar with remote learning, as the course pivoted to remote work during the COVID-19 lockdown.
 
-### FreeCodeCamp (2018 - Present)
+### FreeCodeCamp
+
+(2018 - Present)
 
 - Responsive Web Design Certification - HTML5/CSS3.
 - Working towards the Javascript Algorithms and Data Structures Certification - Javascript/ES6.
 - [FreeCodeCamp profile](https://www.freecodecamp.org/hturnbull).
 
-### Google Ads Certifications (2018)
+### Google Ads Certifications
+
+(2018)
 
 - Google Ads search and display networks certifications.
 
-### University of Nottingham (Sep 2011 to Jun 2015)
+### University of Nottingham
+
+(Sep 2011 to Jun 2015)
 
 - MSci Life Sciences, Graduated with a 2:1
 - Specialised in human genetics, with my final year dissertation and project investigating the efficacy of Haplotype Fusion PCR as an assay to detect allele specific copy number variation in the human amylase gene cluster.
 - Studies required a methodical approach both in lectures and practical labs.
 - Statistics modules involved data processing with R.
 
-### Aldenham School (Sep 2006 - Aug 2011)
+### Aldenham School
+
+(Sep 2006 - Aug 2011)
 
 - A levels - 2 A\*s: Psychology, Biology - 2 A's: Chemistry, Physics
 
