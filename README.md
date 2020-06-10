@@ -182,7 +182,7 @@ Generally my work has focused on front-end systems. I have gained good experienc
 _Marketing and Project Manager_
 
 - I set up automated tools for creating white label marketing assets for customers.
-- I developed web-scraping tools in VisualBasic to gather product data from supplier's online catalogues.
+- To speed up gathering product data from supplier's online catalogues I developed web-scraping tools in VisualBasic .
 - I assisted with development of the customer portal system, focusing on UI, UX and QA.
 
 ## Education
@@ -191,8 +191,8 @@ _Marketing and Project Manager_
 
 - A 16 week intensive programming bootcamp.
 - The training is primarily self-led, encouraging students to develop solutions to problems by themselves, in pairs, and in teams.
-- The course champions Agile/XP methodologies and practices, such as pair programming, TDD and OOD.
-- The course took place during the COVID-19 lockdown, so it pivoted entirely to remote working, which I have become very familiar with.
+- Makers champions Agile/XP methodologies and practices, such as pair programming, TDD and OOD.
+- I have become familiar with remote learning, as the course pivoted to remote work during the COVID-19 lockdown.
 
 ### FreeCodeCamp (2018 - Present)
 
