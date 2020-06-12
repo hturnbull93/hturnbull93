@@ -22,7 +22,7 @@ A summary of the best projects I've worked on. All developed with Test Driven De
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **[Mission-Ctrl]**      | Group project. An arcade style game to learn VSCode shortcuts                                   | MongoDB, Express, React, Node, SCSS | [Deployed](http://mission-ctrl.surge.sh/), [Backend API](https://github.com/hturnbull93/mission-ctrl-api-node)           |
 | **[Bank Tech Test]**    | A CLI program emulating a bank account, showcasing test driven development in 3 languages.      | Ruby, JavaScript, Python            | [Python version](https://github.com/hturnbull93/bank-py), [JavaScript version](https://github.com/hturnbull93/bank-node) |
-| **[Neogram]**           | A social media photo sharing web-app, inspired by instagram and neomorphism design trend        | Ruby on Rails, HTML CSS             | [Deployed](https://neo-gram.herokuapp.com/)                                                                                                                         |
+| **[Neogram]**           | A social media photo sharing web-app, inspired by instagram and neomorphism design trend        | Ruby on Rails, HTML CSS             | [Deployed](https://neo-gram.herokuapp.com/)                                                                              |
 | **[Bowling Scorecard]** | An immersive bowling scorecard.                                                                 | Vanilla JS, HTML, CSS               | [Deployed](http://immersive-bowling-scorecard.surge.sh/)                                                                 |
 | **[News Summary]**      | A single page web app, using AJAX to consume the Guardian API, using vanilla HTML, CSS, and JS. | Vanilla JS, HTML, CSS               | [Deployed](http://guardian-summariser.surge.sh/)                                                                         |
 
@@ -48,12 +48,17 @@ I believe the best way to know if you truly understand something is to communica
 
 ### Technical Knowledge
 
-I have worked with a variety of languages, technologies and softwares:
-
+I have worked with a variety of languages, technologies and softwares.
+<div align="center">
+  <a href="https://sourcerer.io/hturnbull93"><img src="https://img.shields.io/badge/Ruby-1327%20commits-orange.svg" alt=""></a>  
+  <a href="https://sourcerer.io/hturnbull93"><img src="https://img.shields.io/badge/JavaScript-1072%20commits-orange.svg" alt=""></a>  
+  <a href="https://sourcerer.io/hturnbull93"><img src="https://img.shields.io/badge/HTML-1007%20commits-orange.svg" alt=""></a>  
+  <a href="https://sourcerer.io/hturnbull93"><img src="https://img.shields.io/badge/CSS-984%20commits-orange.svg" alt=""></a>  
+</div>
 <table>
   <thead>
     <tr>
-      <th>Languages</th>
+      <!-- <th>Languages</th> -->
       <th>Technologies</th>
       <th>Testing Frameworks</th>
       <th>Concepts</th>
@@ -62,14 +67,14 @@ I have worked with a variety of languages, technologies and softwares:
   </thead>
   <tbody>
     <tr>
-      <td style="vertical-align: top">
+      <!-- <td style="vertical-align: top">
         <ul>
           <li>Ruby</li>
           <li>JavaScript</li>
           <li>HTML5</li>
           <li>CSS3</li>
         </ul>
-      </td>
+      </td> -->
       <td style="vertical-align: top">
         <ul>
           <li>Rails</li>
@@ -217,7 +222,7 @@ _Marketing and Project Manager_ (Nov 2015 to Jul 2017)
 [experience]: #experience
 [hobbies & interests]: #hobbies-and-interests
 [twitter]: https://twitter.com/hturnbull
-[LinkedIn]: https://www.linkedin.com/in/harry-turnbull
+[linkedin]: https://www.linkedin.com/in/harry-turnbull
 [email]: mailto:hturnbull@live.co.uk
 [github]: https://github.com/hturnbull93
 [medium blog]: https://medium.com/@hturnbull93
