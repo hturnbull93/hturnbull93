@@ -1,8 +1,8 @@
 # Harry Turnbull
 
-I want to be a part of a team of passionate, smart people, working to build useful apps that consumers enjoy using.
+I want to be part of a team of passionate, smart people, working to build useful apps that consumers enjoy using.
 
-I have been a self-trained freelance web developer for the past three years. I'm passionate about the intersection of technology of creativity. This led me to train at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp) in order to become upskilled with best practice tools and methodologies to become a professional Front End Developer.
+I have been a self-trained freelance web developer for the past three years. I'm passionate about the intersection of technology and creativity. This led me to train at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp), to learn best practices, tools and methodologies, and become a professional Front End Developer.
 
 I'm looking for opportunities where I can continue to learn, challenge myself and work with great people to build amazing things.
 
