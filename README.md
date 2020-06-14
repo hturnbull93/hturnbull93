@@ -1,8 +1,8 @@
 # Harry Turnbull
 
-I want to be part of a team of passionate, smart people, working to build useful apps that consumers enjoy using.
+I am a Front End developer, looking for new opportunities to work with a team of passionate, smart people, working to build useful apps that consumers enjoy using.
 
-I have been a self-trained freelance web developer for the past three years. I'm passionate about the intersection of technology and creativity. This led me to train at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp), to learn best practices, tools and methodologies, and become a professional Front End Developer.
+I am self-trained and have been working as a freelancer for the past three years. I'm passionate about the intersection of technology and creativity. This led me to train at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp), to learn best practices, tools and methodologies, and become a professional Front End Developer.
 
 I'm looking for opportunities where I can continue to learn, challenge myself and work with great people to build amazing things.
 
@@ -30,19 +30,21 @@ A summary of the best projects I've worked on. All developed with Test Driven De
 
 ### Team-Focused
 
-During my final project at Makers, we took on React. While I already had some experience with React, a lot of the team hadn't.
+During my final project at Makers, we took on React. As the most experienced React developer, I took it upon myself to help my team fill any knowledge gaps. 
 
-In order to accelerate our project and to progress as a group, I spent time making sure everyone had the necessary skills in React and Jest (the testing framework) to contribute as effectively as possible.
+I did this by discussing examples I had created with them to test their knowledge of the technology. This accelerated our development greatly.
 
 ### Project Organisation
 
-During my time as a freelance web designer I often worked on several projects simultaneously. I manage my time effectively, focusing on tasks of high importance and urgency first.
+At Makers we often worked in groups on larger scale projects using XP/Agile methodologies and task tracking methodologies such as Kanban.
 
-At Makers we often worked in groups on larger scale projects. Using XP/Agile methodologies and task tracking methodologies such as Kanban, I ensured our workflow was clear and efficiently managed.
+Using these techniques I led the Mission-Ctrl project team through a sprint with the aim to refactor the entire codebase, going from 31 tests with 66% code coverage to 57 tests with 97% coverage, a significant improvement.
 
 ### Communication
 
-Often I have needed to keep multiple stakeholders informed about progress, be they the project manager, a freelance client, or a teammate. Understanding each of their needs and clarifying the meaning of their questions allows me to give them the information they care about in a way they understand.
+<!-- Often I have needed to keep multiple stakeholders informed about progress, be they the project manager, a freelance client, or a teammate. Understanding each of their needs and clarifying the meaning of their questions allows me to give them the information they care about in a way they understand. -->
+
+When communicating with non-technical stakeholders, translating technical details to and from less technical terms is key. Additionally, I have successfully used my ability to communicate, and my experience of good UX/UI design, to persuade clients away from features that would annoy users.
 
 I believe the best way to know if you truly understand something is to communicate it clearly to someone else. With that in mind I maintain a [Medium blog] of things I learn and want to share my understanding of.
 
@@ -125,7 +127,7 @@ I have worked with a variety of languages, technologies and softwares.
           <li>Postman</li>
           <li>Windows 10</li>
           <li>Linux (Ubuntu)</li>
-          <li>OS X</li>
+          <li>OSx</li>
         </ul>
       </td>
     </tr>
