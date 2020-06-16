@@ -16,7 +16,6 @@
 | **[Takeaway]**          | A CLI interface takeaway menu developed with TDD and OOP.                                       | Ruby                                 |                                                                                                                                             |
 | **[Oystercard]**        | A simple project emulating an Oystercard, developed with TDD and OOP.                           | Ruby                                 |                                                                                                                                             |
 | **[Airport]**           | A simple project emulating an airport, developed with TDD and OOP.                              | Ruby                                 |                                                                                                                                             |
-| **[Student directory]** | A simple program allowing student data to be entered, and saved to/loaded from csv files.       | Ruby                                 |                                                                                                                                             |
 
 [mission-ctrl]: https://github.com/tommyrharper/mission-ctrl
 [bank tech test]: https://github.com/hturnbull93/bank
