@@ -1,10 +1,12 @@
 # Harry Turnbull
 
-I am a Front End developer, looking for new opportunities to work with a team of passionate, smart people, working to build useful apps that consumers enjoy using.
+I am a Full Stack developer, looking for opportunities to continue to learn, challenge myself and work with great people to build useful apps that consumers enjoy using.
 
-I am self-trained and have been working as a freelancer for the past three years. I'm passionate about the intersection of technology and creativity. This led me to train at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp), to learn best practices, tools and methodologies, and become a professional Front End Developer.
+I'm passionate about the intersection of technology and creativity. I am self-taught and have been working as a Web Designer for the past three years, which has allowed me to gain skills in Front-End design and implementation, as well as UI/UX design.
 
-I'm looking for opportunities where I can continue to learn, challenge myself and work with great people to build amazing things.
+I have recently completed training at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp), to learn best practices, tools and methodologies, and become a professional Full Stack Developer.
+
+<!-- I'm looking for opportunities where I can continue to learn, challenge myself and work with great people to build useful apps that consumers enjoy using. -->
 
 <!-- After graduating university with a Masters in Life Sciences I got to grips with programming at my first job where I built simple web scrapers in Microsoft VBA to automate tasks. Many jobs I've had since then have touched on programming, which has been the thing I found most interesting about them. -->
 <div align="center">
@@ -28,23 +30,25 @@ A summary of the best projects I've worked on. All developed with Test Driven De
 
 ## Skills
 
-### Team-Focused
+### Leadership
 
-During my final project at Makers, we took on React. As the most experienced React developer, I took it upon myself to help my team fill any knowledge gaps. 
+During my final project at Makers, we took on React. As the most experienced React developer, I took it upon myself to help my team fill any knowledge gaps. I did this by discussing examples I had created with them to test their knowledge of the technology. This accelerated our development greatly.
 
-I did this by discussing examples I had created with them to test their knowledge of the technology. This accelerated our development greatly.
+I later led the project team through a sprint with the aim to refactor the entire codebase, going from 31 tests with 66% code coverage to 57 tests with 97% coverage, a significant improvement.
 
-### Project Organisation
+### Project Management
 
-At Makers we often worked in groups on larger scale projects using XP/Agile methodologies and task tracking methodologies such as Kanban.
+At Makers we often worked in groups on larger scale projects using XP/Agile methodologies and task tracking methods such as Kanban.
 
-Using these techniques I led the Mission-Ctrl project team through a sprint with the aim to refactor the entire codebase, going from 31 tests with 66% code coverage to 57 tests with 97% coverage, a significant improvement.
+During my time as Project Manager at Freedom Tech, I created automated workflows for several of my responsibilities, allowing me to keep track of customer requirements during peak business seasons.
 
 ### Communication
 
 <!-- Often I have needed to keep multiple stakeholders informed about progress, be they the project manager, a freelance client, or a teammate. Understanding each of their needs and clarifying the meaning of their questions allows me to give them the information they care about in a way they understand. -->
 
-When communicating with non-technical stakeholders, translating technical details to and from less technical terms is key. Additionally, I have successfully used my ability to communicate, and my experience of good UX/UI design, to persuade clients away from features that would annoy users.
+When communicating with non-technical stakeholders, I translate technical details to and from less technical terms easily. Additionally, I have successfully used my ability to communicate, and my experience of good UX/UI design, to persuade clients away from features that would annoy users.
+
+### Reflection
 
 I believe the best way to know if you truly understand something is to communicate it clearly to someone else. With that in mind I maintain a [Medium blog] of things I learn and want to share my understanding of.
 
