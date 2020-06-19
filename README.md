@@ -1,24 +1,45 @@
 # Harry Turnbull
 
+<h2 align="center">
+
+![Ruby commits](https://img.shields.io/badge/Ruby-1327%20commits-%23CC342D?style=flat-square&logo=ruby&logoColor=white)
+![JavaScript commits](https://img.shields.io/badge/JavaScript-1072%20commits-%23c5b218?style=flat-square&logo=javascript&logoColor=white)
+![HTML commits](https://img.shields.io/badge/HTML-1007%20commits-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS commits](https://img.shields.io/badge/CSS-984%20commits-%231572B6?style=flat-square&logo=css3&logoColor=white)
+
+</h2>
+
 I am a Full Stack developer, looking for opportunities to continue to learn, challenge myself and work with great people to build useful apps that consumers enjoy using.
 
 I'm passionate about the intersection of technology and creativity. I am self-taught and have been working as a Web Designer for the past three years, which has allowed me to gain skills in Front-End design and implementation, as well as UI/UX design.
 
-I have recently completed training at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp), to learn best practices, tools and methodologies, and become a professional Full Stack Developer.
+I have recently completed training at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp), to learn best practices, tools and methodologies.
 
-<!-- I'm looking for opportunities where I can continue to learn, challenge myself and work with great people to build useful apps that consumers enjoy using. -->
-
-<!-- After graduating university with a Masters in Life Sciences I got to grips with programming at my first job where I built simple web scrapers in Microsoft VBA to automate tasks. Many jobs I've had since then have touched on programming, which has been the thing I found most interesting about them. -->
 <div align="center">
 
-Section navigation - [Projects] | [Skills] | [Experience] | [Education] | [Hobbies & Interests]  
-Contact/more links - [Twitter] | [LinkedIn] | [Email] | [GitHub] | [Medium Blog] | [CodeWars]
+### Navigation 
+
+[![projects](https://img.shields.io/badge/-Projects-blue?style=for-the-badge)](#projects)
+[![skills](https://img.shields.io/badge/-Skills-blue?style=for-the-badge)](#skills)
+[![education](https://img.shields.io/badge/-Education-blue?style=for-the-badge)](#education)
+[![experience](https://img.shields.io/badge/-Experience-blue?style=for-the-badge)](#experience)
+[![hobbies & interests](https://img.shields.io/badge/-Hobbies_and_interests-blue?style=for-the-badge)](#hobbies-and-interests)
+
+### Contact/Links
+
+[![Website]](https://harryturnbull.com)
+[![Twitter Profile]](https://twitter.com/hturnbull)
+[![LinkedIn Profile]](https://www.linkedin.com/in/harry-turnbull)
+[![Medium Profile]](https://medium.com/@hturnbull93)
+[![Email]](mailto:hturnbull@live.co.uk)
+[![CodeWars Profile]](https://www.codewars.com/users/hturnbull93)
+[![GitHub Profile]](https://github.com/hturnbull93)
 
 </div>
 
 ## Projects
 
-A summary of the best projects I've worked on. All developed with Test Driven Development, and Object Oriented Principles, and XP/Agile when in groups. A full summary of all my projects is available [here](projects.md).
+A summary of the best projects I've worked on. All developed with Test Driven Development, Object Oriented Principles, and XP/Agile methodology. A full summary of all my projects is available [here](projects.md).
 
 | Project/GitHub          | Details                                                                                         | Tech                                | Additional Links                                                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -50,21 +71,16 @@ When communicating with non-technical stakeholders, I translate technical detail
 
 ### Reflection
 
-I believe the best way to know if you truly understand something is to communicate it clearly to someone else. With that in mind I maintain a [Medium blog] of things I learn and want to share my understanding of.
+I believe the best way to know if you truly understand something is to communicate it clearly to someone else. With that in mind I maintain a [Medium blog](https://medium.com/@hturnbull93) of things I learn and want to share my understanding of.
 
 ### Technical Knowledge
 
 I have worked with a variety of languages, technologies and softwares.
-<div align="center">
-  <a href="https://sourcerer.io/hturnbull93"><img src="https://img.shields.io/badge/Ruby-1327%20commits-orange.svg" alt=""></a>  
-  <a href="https://sourcerer.io/hturnbull93"><img src="https://img.shields.io/badge/JavaScript-1072%20commits-orange.svg" alt=""></a>  
-  <a href="https://sourcerer.io/hturnbull93"><img src="https://img.shields.io/badge/HTML-1007%20commits-orange.svg" alt=""></a>  
-  <a href="https://sourcerer.io/hturnbull93"><img src="https://img.shields.io/badge/CSS-984%20commits-orange.svg" alt=""></a>  
-</div>
+
 <table>
   <thead>
     <tr>
-      <!-- <th>Languages</th> -->
+      <th>Languages</th>
       <th>Technologies</th>
       <th>Testing Frameworks</th>
       <th>Concepts</th>
@@ -73,14 +89,14 @@ I have worked with a variety of languages, technologies and softwares.
   </thead>
   <tbody>
     <tr>
-      <!-- <td style="vertical-align: top">
+      <td style="vertical-align: top">
         <ul>
           <li>Ruby</li>
           <li>JavaScript</li>
           <li>HTML5</li>
           <li>CSS3</li>
         </ul>
-      </td> -->
+      </td>
       <td style="vertical-align: top">
         <ul>
           <li>Rails</li>
@@ -216,23 +232,11 @@ _Marketing and Project Manager_ (Nov 2015 to Jul 2017)
 
 - **Improvised theatre and comedy** - I perform improvised shows with my group, live on stage with no script, based on audience suggestion. Skills from improv have great applications in the workplace too, such as active listening, generating ideas, building trust within teams, and working out of joy instead of fear.
 
+  One of my projects involves [improvising with an AI trained on movie scripts](https://improbotics.org/)!
+
 - **Cycling** - I enjoy cycling, especially e-bikes.
 
 - **Running** - I run to keep fit, and sometimes I enjoy it.
-
-<!-- Menu internal Links -->
-
-[projects]: #projects
-[skills]: #skills
-[education]: #education
-[experience]: #experience
-[hobbies & interests]: #hobbies-and-interests
-[twitter]: https://twitter.com/hturnbull
-[linkedin]: https://www.linkedin.com/in/harry-turnbull
-[email]: mailto:hturnbull@live.co.uk
-[github]: https://github.com/hturnbull93
-[medium blog]: https://medium.com/@hturnbull93
-[codewars]: https://www.codewars.com/users/hturnbull93
 
 <!-- Project Links -->
 
@@ -241,3 +245,13 @@ _Marketing and Project Manager_ (Nov 2015 to Jul 2017)
 [neogram]: https://github.com/hturnbull93/instagram-challenge
 [bowling scorecard]: https://github.com/hturnbull93/bowling-challenge
 [news summary]: https://github.com/hturnbull93/news-summary-challenge
+
+<!-- Badge Links -->
+
+[Website]: https://img.shields.io/badge/Website-%2341403e?style=for-the-badge&logo=data:image/png;base64,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
+[twitter profile]: https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
+[medium profile]: https://img.shields.io/badge/Medium_blog-%2312100E?style=for-the-badge&logo=medium&logoColor=white
+[email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
+[codewars profile]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
+[github profile]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
