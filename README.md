@@ -197,7 +197,7 @@ _Marketing and Project Manager_ (Nov 2015 to Jul 2017)
 - A 16 week intensive programming bootcamp.
 - The training is primarily self-led, encouraging students to develop solutions to problems by themselves, in pairs, and in teams.
 - Makers champions Agile/XP methodologies and practices, such as pair programming, TDD and OOD.
-- I have become familiar with remote learning, as the course pivoted to remote work during the COVID-19 lockdown.
+- I have become familiar with remote working, as the course pivoted to remote work during the COVID-19 lockdown.
 
 ### FreeCodeCamp
 
