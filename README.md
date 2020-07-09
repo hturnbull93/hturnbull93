@@ -39,7 +39,7 @@ I have recently completed training at [Makers Academy](https://makers.tech/) (Lo
 
 ## Projects
 
-A summary of the best projects I've worked on. All developed with Test Driven Development, Object Oriented Principles, and XP/Agile methodology. A full summary of all my projects is available [here](projects.md).
+A summary of the best projects I've worked on. All developed with Test Driven Development, Object Oriented Principles, and XP/Agile methodology. A full summary of all my projects is available [here](https://github.com/hturnbull93/cv/blob/master/projects.md).
 
 | Project/GitHub          | Details                                                                                         | Tech                                | Additional Links                                                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
