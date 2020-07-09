@@ -33,7 +33,6 @@ I have recently completed training at [Makers Academy](https://makers.tech/) (Lo
 [![Medium Profile]](https://medium.com/@hturnbull93)
 [![Email]](mailto:hturnbull@live.co.uk)
 [![CodeWars Profile]](https://www.codewars.com/users/hturnbull93)
-[![GitHub Profile]](https://github.com/hturnbull93)
 
 </div>
 
