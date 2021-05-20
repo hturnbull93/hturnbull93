@@ -1,5 +1,5 @@
 # Harry Turnbull
-
+<!-- 
 <h2 align="center">
 
 ![Ruby commits](https://img.shields.io/badge/Ruby-1327%20commits-%23CC342D?style=flat-square&logo=ruby&logoColor=white)
@@ -7,13 +7,13 @@
 ![HTML commits](https://img.shields.io/badge/HTML-1007%20commits-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS commits](https://img.shields.io/badge/CSS-984%20commits-%231572B6?style=flat-square&logo=css3&logoColor=white)
 
-</h2>
+</h2> -->
 
-I am a Full Stack developer, looking for opportunities to continue to learn, challenge myself and work with great people to build useful apps that consumers enjoy using.
+I am a Full Stack developer, looking for new opportunities to continue to learn, challenge myself, and work with great people to build amazing things.
 
-I'm passionate about the intersection of technology and creativity. I am self-taught and have been working as a Web Designer for the past three years, which has allowed me to gain skills in Front-End design and implementation, as well as UI/UX design.
+I trained at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp), to learn best practices, tools and methodologies, which led me to my Full Stack position at AppScore Technology Ltd.
 
-I have recently completed training at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp), to learn best practices, tools and methodologies.
+While I’ve learned much at AppScore, the team is quite small, and I’d like to be able to work with and learn from more experienced developers to expand my skills and knowledge of best practices.
 
 <div align="center">
 
@@ -50,21 +50,15 @@ A summary of the best projects I've worked on. All developed with Test Driven De
 
 ## Skills
 
-### Leadership
+### Agile Project Organisation
 
-During my final project at Makers, we took on React. As the most experienced React developer, I took it upon myself to help my team fill any knowledge gaps. I did this by discussing examples I had created with them to test their knowledge of the technology. This accelerated our development greatly.
+At AppScore I championed the use of agile methodologies. Previously the team had little structure in place in terms of creating tickets and planning developments. I introduced more stringent requirements for tickets to be considered ready for development and completed. This has led to an improvement in our ability to estimate work and affect positive development workflow changes in response to retrospective sessions.
 
-I later led the project team through a sprint with the aim to refactor the entire codebase, going from 31 tests with 66% code coverage to 57 tests with 97% coverage, a significant improvement.
+### Team-Focused 
 
-### Project Management
-
-At Makers we often worked in groups on larger scale projects using XP/Agile methodologies and task tracking methods such as Kanban.
-
-During my time as Project Manager at Freedom Tech, I created automated workflows for several of my responsibilities, allowing me to keep track of customer requirements during peak business seasons.
+The team is only as strong as its members. I mentor a junior developer through group planning sessions, pairing on tickets, and code review. As part of the agile methodology described above, we mob on problems to unblock team members as quickly as possible.
 
 ### Communication
-
-<!-- Often I have needed to keep multiple stakeholders informed about progress, be they the project manager, a freelance client, or a teammate. Understanding each of their needs and clarifying the meaning of their questions allows me to give them the information they care about in a way they understand. -->
 
 When communicating with non-technical stakeholders, I translate technical details to and from less technical terms easily. Additionally, I have successfully used my ability to communicate, and my experience of good UX/UI design, to persuade clients away from features that would annoy users.
 
@@ -83,44 +77,43 @@ I have worked with a variety of languages, technologies and softwares.
       <th>Technologies</th>
       <th>Testing Frameworks</th>
       <th>Concepts</th>
-      <th>Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="vertical-align: top">
         <ul>
-          <li>Ruby</li>
           <li>JavaScript</li>
+          <li>Typescript</li>
           <li>HTML5</li>
-          <li>CSS3</li>
+          <li>CSS3/SASS</li>
+          <li>Ruby</li>
+          <li>Python</li>
         </ul>
       </td>
       <td style="vertical-align: top">
         <ul>
-          <li>Rails</li>
-          <li>Sinatra</li>
           <li>Node.js</li>
-          <li>Express</li>
-          <li>jQuery</li>
           <li>React</li>
-          <li>PostgreSQL</li>
+          <li>Apollo GraphQL</li>
+          <li>Express</li>
           <li>MongoDB</li>
-          <li>TravisCI</li>
-          <li>Heroku</li>
-          <li>Surge</li>
+          <li>PostgreSQL</li>
+          <li>Docker</li>
+          <li>Linux</li>
+          <li>Git</li>
         </ul>
       </td>
       <td style="vertical-align: top">
         <ul>
-          <li>RSpec</li>
-          <li>Capybara</li>
+          <li>Jest</li>
+          <li>Enzyme</li>
+          <li>React Testing Library</li>
+          <li>Cypress</li>
           <li>Jasmine</li>
           <li>Mocha</li>
           <li>Chai</li>
           <li>Sinon</li>
-          <li>Jest</li>
-          <li>Enzyme</li>
         </ul>
       </td>
       <td style="vertical-align: top">
@@ -137,27 +130,23 @@ I have worked with a variety of languages, technologies and softwares.
           <li>RESTful APIs</li>
         </ul>
       </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>VSCode</li>
-          <li>Git</li>
-          <li>Figma</li>
-          <li>Photopea (FOSS alternative to Photoshop)</li>
-          <li>Postman</li>
-          <li>Windows 10</li>
-          <li>Linux (Ubuntu)</li>
-          <li>OSx</li>
-        </ul>
-      </td>
     </tr>
   </tbody>
 </table>
 
 ## Experience
 
+### AppScore Technology Ltd
+
+_Full Stack Developer_ (July 2020 to Present)
+
+- Introduced agile methodologies, previously the team had little structure in place in terms of planning and code review
+- Identified and have begun to remediate technical debt, replacing poorly abstracted and low level imperative code with an object oriented design
+- Mentored a junior developer, offering advice, and guidance through pairing and code review 
+ 
 ### The Nursery Theatre Ltd
 
-_Digital Communication and Website Manager_ (Nov 2017 to Present)
+_Digital Communication and Website Manager_ (Nov 2017 to July 2020)
 
 - Developed [thenurserytheatre.com](https://thenurserytheatre.com) in WordPress, using HTML/CSS/JS/PHP.
 - Maintain technical documents to assist users in updating content.
