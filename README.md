@@ -13,8 +13,6 @@ I am a Full Stack developer, looking for new opportunities to continue to learn,
 
 I trained at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp), to learn best practices, tools and methodologies, which led me to my Full Stack position at AppScore Technology Ltd.
 
-While I’ve learned much at AppScore, the team is quite small, and I’d like to be able to work with and learn from more experienced developers to expand my skills and knowledge of best practices.
-
 <div align="center">
 
 ### Navigation 
